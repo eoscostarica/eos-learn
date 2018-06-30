@@ -114,6 +114,7 @@ A curated list of EOS development learning resources.
 - [First Steps in EOS Blockchain Development](https://medium.com/@infinitexlabs/first-steps-in-eos-blockchain-development-56824502c799)
 - [The Ultimate End-to-End EOS dApp Development Tutorial — Part 1](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c)
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)
+- [Blockgeeks - EOS Blockchain](https://blockgeeks.com/guides/eos-blockchain/)
 
 ### Github
 
