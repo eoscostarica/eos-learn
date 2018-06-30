@@ -33,42 +33,48 @@ A curated list of EOS development learning resources.
 
 ### Videos
 
-**Introduction to Blockchain: Daniel Larimer at Virginia Tech**
+****
+<p align="center"><b>Introduction to Blockchain: Daniel Larimer at Virginia Tech</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=sYAktmG1NuA">
 		<img src="assets/introduction-to-blockchain-dan-larimer.png" width="600">
 	</a>
 </p>
 
-**C++ Programming - Entire CPP Programming Language in one Video**
+****
+<p align="center"><b>C++ Programming - Entire CPP Programming Language in one Video</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=Rub-JsjMhWY">
 		<img src="assets/cpp-programming.png" width="600">
 	</a>
 </p>
 
-**WebAssembly Tutorial - An Introduction to WebAssembly**
+****
+<p align="center"><b>WebAssembly Tutorial - An Introduction to WebAssembly</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=zxy0xqQs-k4">
 		<img src="assets/wasm-tutorial.png" width="600">
 	</a>
 </p>
 
-**EOS Educational Series - Introduction**
+***
+<p align="center"><b>EOS Educational Series - Introduction</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=IjrDj6KQGe8">
 		<img src="assets/eos-educational-series-intro-part-1.png" width="600">
 	</a>
 </p>
 
-**EOS Educational Series - Internal Economics**
+***
+<p align="center"><b>EOS Educational Series - Internal Economics</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=2EgBTvUeH30">
 		<img src="assets/eos-educational-series-internal-economics.png" width="600">
 	</a>
 </p>
 
-**Building Distributed Apps With EOS.IO Blockchain**
+***
+<p align="center"><b>Building Distributed Apps With EOS.IO Blockchain</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=E3Tx2DseLGE">
 		<img src="assets/building-distribute-apps-with-eosio-blockchain.png" width="600">
@@ -82,7 +88,7 @@ A curated list of EOS development learning resources.
 - [Your First EOS dApp — The Contract](https://medium.com/coinmonks/your-first-eos-dapp-the-contract-ce793f43d852)
 - [First Steps in EOS Blockchain Development](https://medium.com/@infinitexlabs/first-steps-in-eos-blockchain-development-56824502c799)
 - [The Ultimate End-to-End EOS dApp Development Tutorial — Part 1](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c)
-- [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)	
+- [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)
 
 ### Other
 
@@ -98,4 +104,3 @@ EOS Costa Rica supports the global and local open source efforts and development
 We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
 
 [eoscostarica.io](https://eoscostarica.io)
-
