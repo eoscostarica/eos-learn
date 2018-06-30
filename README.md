@@ -20,8 +20,6 @@
 	</a>
 </p>
 
-
-
 # EOS Dev Learning Resources
 
 
@@ -33,11 +31,21 @@ A curated list of EOS development learning resources.
 
 ### Videos
 
+
 ****
 <p align="center"><b>Introduction to Blockchain: Daniel Larimer at Virginia Tech</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=sYAktmG1NuA">
 		<img src="assets/introduction-to-blockchain-dan-larimer.png" width="600">
+	</a>
+</p>
+
+
+****
+<p align="center"><b>What is EOS and how it works?</b></p>
+<p align="center">
+	<a href="https://https://www.youtube.com/watch?v=CeAKGgqosQE">
+		<img src="assets/what-is-eos-and-how-it-works.png" width="600">
 	</a>
 </p>
 
