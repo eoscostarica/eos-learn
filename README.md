@@ -101,6 +101,7 @@ A curated list of EOS development learning resources.
 ### Articles
 
 - [Your First EOS dApp — The Contract](https://medium.com/coinmonks/your-first-eos-dapp-the-contract-ce793f43d852)
+- [EOS smart contracts, Part 1: Getting started (Ping equivalent in EOS)](https://steemit.com/devs/@eos-asia/eos-smart-contracts-part-1-getting-started-ping-equivalent-in-eos)
 - [First Steps in EOS Blockchain Development](https://medium.com/@infinitexlabs/first-steps-in-eos-blockchain-development-56824502c799)
 - [The Ultimate End-to-End EOS dApp Development Tutorial — Part 1](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c)
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)
@@ -111,6 +112,7 @@ A curated list of EOS development learning resources.
 - [eosasia/ping-eos](https://github.com/eosasia/ping-eos)
 - [EOSEssentials/Scatter-Demo](https://github.com/EOSEssentials/Scatter-Demos)
 - [rawrat/eos-poc](https://github.com/rawrat/eos-poc)
+- [tbfleming/cib](https://github.com/tbfleming/cib)
 
 ## About EOS Costa Rica
 
