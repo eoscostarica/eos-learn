@@ -81,6 +81,14 @@ A curated list of EOS development learning resources.
 	</a>
 </p>
 
+***
+<p align="center"><b>Learning Blockchain with EOS and C++ Video Series</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=DqbkxfUX5Kg&list=UUN66Pz78qCMzGa1eNdBxWfQ&index=9">
+		<img src="assets/learning-blockchain-with-eos-and-cpp.png" width="600">
+	</a>
+</p>
+
 
 
 ### Articles
