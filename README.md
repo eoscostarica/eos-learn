@@ -89,6 +89,13 @@ A curated list of EOS development learning resources.
 	</a>
 </p>
 
+***
+<p align="center"><b>Building an MMO Game on the EOS Blockchain</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=5IgV_ThOAA8">
+		<img src="assets/building-an-mmo-game-on-the-eos-blockchain.png" width="600">
+	</a>
+</p>
 
 
 ### Articles
