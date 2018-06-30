@@ -98,10 +98,12 @@ A curated list of EOS development learning resources.
 - [The Ultimate End-to-End EOS dApp Development Tutorial — Part 1](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c)
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)
 
-### Other
+### Github
 
 - [EOS-Nation/Awesome-EOS](https://github.com/EOS-Nation/Awesome-EOS)
-
+- [eosasia/ping-eos](https://github.com/eosasia/ping-eos)
+- [EOSEssentials/Scatter-Demo](https://github.com/EOSEssentials/Scatter-Demos)
+- [rawrat/eos-poc](https://github.com/rawrat/eos-poc)
 
 ## About EOS Costa Rica
 
