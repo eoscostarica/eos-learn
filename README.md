@@ -33,22 +33,22 @@ A curated list of EOS development learning resources.
 
 ### Videos
 
+**Introduction to Blockchain: Daniel Larimer at Virginia Tech**
 <p align="center">
-	<span>Introduction to Blockchain: Daniel Larimer at Virginia Tech</span>
 	<a href="https://www.youtube.com/watch?v=sYAktmG1NuA">
 		<img src="assets/introduction-to-blockchain-dan-larimer.png" width="600">
 	</a>
 </p>
 
+**C++ Programming - Entire CPP Programming Language in one Video**
 <p align="center">
-	<span>C++ Programming - Entire CPP Programming Language in one Video</span>
 	<a href="https://www.youtube.com/watch?v=Rub-JsjMhWY">
 		<img src="assets/cpp-programming.png" width="600">
 	</a>
 </p>
 
+**WebAssembly Tutorial - An Introduction to WebAssembly**
 <p align="center">
-	<span>WebAssembly Tutorial - An Introduction to WebAssembly</span>
 	<a href="https://www.youtube.com/watch?v=zxy0xqQs-k4">
 		<img src="assets/wasm-tutorial.png" width="600">
 	</a>
@@ -62,16 +62,15 @@ A curated list of EOS development learning resources.
 	</a>
 </p>
 
+**EOS Educational Series - Internal Economics**
 <p align="center">
-	<span>EOS Educational Series - Internal Economics</span>
 	<a href="https://www.youtube.com/watch?v=2EgBTvUeH30">
 		<img src="assets/eos-educational-series-internal-economics.png" width="600">
 	</a>
 </p>
 
-
+**Building Distributed Apps With EOS.IO Blockchain**
 <p align="center">
-	<span>Building Distributed Apps With EOS.IO Blockchain</span>
 	<a href="https://www.youtube.com/watch?v=E3Tx2DseLGE">
 		<img src="assets/building-distribute-apps-with-eosio-blockchain.png" width="600">
 	</a>
