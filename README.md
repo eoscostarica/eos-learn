@@ -74,6 +74,15 @@ A curated list of EOS development learning resources.
 </p>
 
 ***
+<p align="center"><b>Programming on EOS vs ETH - Programmer explains</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=NxLQzVIa69A">
+		<img src="assets/programming-on-eos-vs-eth.png" width="600">
+	</a>
+</p>
+
+
+***
 <p align="center"><b>Building Distributed Apps With EOS.IO Blockchain</b></p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=E3Tx2DseLGE">
