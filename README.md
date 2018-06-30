@@ -54,9 +54,8 @@ A curated list of EOS development learning resources.
 	</a>
 </p>
 
-
+**EOS Educational Series - Introduction**
 <p align="center">
-	<span>EOS Educational Series - Introduction</span>
 	<a href="https://www.youtube.com/watch?v=IjrDj6KQGe8">
 		<img src="assets/eos-educational-series-intro-part-1.png" width="600">
 	</a>
