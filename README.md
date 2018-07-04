@@ -22,10 +22,9 @@
 
 # EOS Dev Learning Resources
 
-
 A curated list of EOS development learning resources.
 
-### Websites
+### Official
 
 - [developers.eos.io](https://developers.eos.io).
 
@@ -127,10 +126,15 @@ A curated list of EOS development learning resources.
 ### Github
 
 - [EOS-Nation/Awesome-EOS](https://github.com/EOS-Nation/Awesome-EOS)
+- [DanailMinchev/awesome-eos](https://github.com/DanailMinchev/awesome-eos)
 - [eosasia/ping-eos](https://github.com/eosasia/ping-eos)
 - [EOSEssentials/Scatter-Demo](https://github.com/EOSEssentials/Scatter-Demos)
 - [rawrat/eos-poc](https://github.com/rawrat/eos-poc)
 - [tbfleming/cib](https://github.com/tbfleming/cib)
+
+## Websites
+
+- [eosvenezuela.io/esc](https://eosvenezuela.io/esc.html)
 
 ## About EOS Costa Rica
 
