@@ -41,10 +41,18 @@ A curated list of EOS development learning resources.
 
 
 ****
-<p align="center"><b>What is EOS and how it works?</b></p>
+<p align="center"><b>What is EOS and How it Works?</b></p>
 <p align="center">
 	<a href="https://https://www.youtube.com/watch?v=CeAKGgqosQE">
 		<img src="assets/what-is-eos-and-how-it-works.png" width="600">
+	</a>
+</p>
+
+****
+<p align="center"><b>The Real Difference Between Ethereum and EOS</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=YmwZ3xvIyN4">
+		<img src="assets/the-real-difference-between-ethereum-and-eos.png" width="600">
 	</a>
 </p>
 
