@@ -134,6 +134,7 @@ A curated list of EOS development learning resources.
 
 ## Websites
 
+- [eosdocs.io](https://eosdocs.io/)
 - [eosvenezuela.io/esc](https://eosvenezuela.io/esc.html)
 
 ## About EOS Costa Rica
