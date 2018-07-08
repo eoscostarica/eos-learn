@@ -24,12 +24,43 @@
 
 A curated list of EOS development learning resources.
 
-### Official
+
+### Official Documentation
 
 - [developers.eos.io](https://developers.eos.io).
 
 ### Videos
 
+<p align="center"><b>How Does a Blockchain Work - Simply Explained</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=SSo_EIwHSd4">
+		<img src="assets/how-does-a-blockchain-work-simply-explained.png" width="600">
+	</a>
+</p>
+
+****
+<p align="center"><b>Smart Contracts - Simply Explained</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=SSo_EIwHSd4">
+		<img src="assets/smart-contracts-simply-explained.png" width="600">
+	</a>
+</p>
+
+****
+<p align="center"><b>Blockchains How Can They Be Used - Simply Explained</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=aQWflNQuP_o">
+		<img src="assets/blockchains-how-can-they-be-used-simply-explained.png" width="600">
+	</a>
+</p>
+
+****
+<p align="center"><b>IPFS - Simply Explained</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=5Uj6uR3fp-U">
+		<img src="assets/ipfs-simply-explained.png" width="600">
+	</a>
+</p>
 
 ****
 <p align="center"><b>Introduction to Blockchain: Daniel Larimer at Virginia Tech</b></p>
