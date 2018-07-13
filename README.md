@@ -41,10 +41,19 @@ A curated list of EOS development learning resources.
 ****
 <p align="center"><b>Smart Contracts - Simply Explained</b></p>
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=SSo_EIwHSd4">
+	<a href="https://www.youtube.com/watch?v=ZE2HxTmxfrI">
 		<img src="assets/smart-contracts-simply-explained.png" width="600">
 	</a>
 </p>
+
+****
+<p align="center"><b>What is a “Smart Contract”?</b></p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=_I0dUL4kpTg">
+		<img src="assets/what-is-a-smart-contract-eosio.png" width="600">
+	</a>
+</p>
+
 
 ****
 <p align="center"><b>Blockchains How Can They Be Used - Simply Explained</b></p>
