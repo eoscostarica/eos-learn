@@ -1,0 +1,71 @@
+baseURL = "https://docs.eoscostarica.io/"
+languageCode = "en-us"
+title = "EOS Costa Rica documentation site"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "Digitalcraftsman"
+	description = "A material design theme for documentations."
+	copyright = "Released under the MIT license"
+
+	# Repository
+	provider = "GitHub"
+	repo_url = "https://github.com/eoscostarica/eos-learning-resources"
+
+	version = "1.0.0"
+	logo = "images/logo.png"
+	favicon = "images/favicon.ico"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "blue-grey"
+    	accent  = "blue-grey"
+
+  [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+[social]
+	twitter = "eoscostarica"
+	github  = "eoscostarica"
+	email   = "bp@eosio.cr"
+
+[[menu.main]]
+	name   = "EOS Blockchain"
+	url    = "eos-blockchain/"
+	weight = 40
+
+[[menu.main]]
+	name   = "Open Source"
+	url    = "open-source/"
+	weight = 30
+
+[[menu.main]]
+	name   = "Block Producer"
+	url    = "block-producer/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Introduction"
+	url    = "/"
+	weight = 10
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
