@@ -8,6 +8,36 @@ weight: 30
 
 The EOS.IO software introduces a new blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. This is achieved by creating an operating system-like construct upon which applications can be built. The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across many CPU cores or clusters. The resulting technology is a blockchain architecture that may ultimately scale to millions of transactions per second, eliminates user fees, and allows for quick and easy deployment and maintenance of decentralized applications, in the context of a governed blockchain
 
+## Why EOS ?
+
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=3kqkTYqTvDA">
+		<img src="/images/eos-blockchain/why-eos.png" width="600">
+	</a>
+</p>
+
+<p align="center">
+	<img src="/images/eos-blockchain/eos-network.jpg" width="600">
+  <br/>
+</p>
+
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=YmwZ3xvIyN4">
+		<img src="/images/eos-blockchain/eos-vs-ethereum.png" width="600">
+	</a>
+</p>
+
+## EOS Storage
+
+[EOS.IO Storage White Paper](https://steemit.com/eos/@eosio/eos-io-storage-white-paper-now-available)
+
+<p align="center">
+	<span>5 Reasons Why EOS Storage Will Change Data Storage Forever</span>
+	<a href="https://www.youtube.com/watch?v=7mFzb5SqS9U">
+		<img src="/images/eos-blockchain/eos-storage.png" width="600">
+	</a>
+</p>
+
 ## EOS Architecture
 
 EOSIO comes with a number of programs. The primary ones that you will use, and the ones that are covered here, are:
@@ -48,3 +78,19 @@ The basic relationship between these components is illustrated in the following 
 - Support for Biometric Hardware Secured Keys (e.g. Apple Secure Enclave).
 - Designed for Parallel Execution of Context Free Validation Logic.
 - Designed for Inter Blockchain Communication.
+
+## Governance
+
+wip...
+
+## RAM Market
+
+wip...
+
+## Ricardian Contracts
+
+wip...
+
+## EOS Official Documentation
+
+- https://developers.eos.io
