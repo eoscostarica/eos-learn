@@ -25,7 +25,7 @@
 
 # EOS Learning Resources by EOS Costa Rica.
 
-Website with curated EOS learning resources.  [learning.eoscostarica.io](https://learning.eoscostarica.io)
+Website with curated EOS learning resources.  [learn.eoscostarica.io](https://learn.eoscostarica.io)
 
 # Local Setup
 
