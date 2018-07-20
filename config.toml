@@ -1,6 +1,6 @@
-baseURL = "https://docs.eoscostarica.io/"
+baseURL = "https://learn.eoscostarica.io/"
 languageCode = "en-us"
-title = "EOS Costa Rica documentation site"
+title = "EOS Learning Resources by EOS Costa Rica"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -9,8 +9,8 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
+	author = "eoscostarica"
+	description = "A curated list of EOS learning resources."
 	copyright = "Released under the MIT license"
 
 	# Repository
