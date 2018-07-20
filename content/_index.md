@@ -1,19 +1,14 @@
 ---
 date: 2016-03-08T21:07:13+01:00
-title: EOS Docs by EOS Costa Rica
+title: EOS Learning Resources
 type: index
 weight: 0
 layout: single
 ---
-
+<p align="center">&nbsp;</p>
 <p align="center">
 		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="600">
 </p>
-
-
-# EOS Learning Resources by EOS Costa Rica
-
-A curated list of EOS development learning resources.
 
 **Official Documentation**
 
