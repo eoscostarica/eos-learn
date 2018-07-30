@@ -68,7 +68,7 @@ layout: single
 ****
 <p align="center"><b>What is EOS and How it Works?</b></p>
 <p align="center">
-	<a href="https://https://www.youtube.com/watch?v=CeAKGgqosQE">
+	<a href="https://www.youtube.com/watch?v=CeAKGgqosQE">
 		<img src="/images/learning/what-is-eos-and-how-it-works.png" width="600">
 	</a>
 </p>
