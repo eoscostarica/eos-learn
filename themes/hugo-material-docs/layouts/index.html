@@ -24,6 +24,8 @@
 
 	<article class="article">
 		<div class="wrapper">
+				<a href="https://github.com/eoscostarica/eos-learning-resources/tree/master/content/{{ .File.Path }}" style="float:right;">edit this page</a>
+				<div style="clear:right"></div>
 			{{ range where .Site.Pages "Type" "index" }}
 				<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
 
