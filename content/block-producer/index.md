@@ -6,7 +6,7 @@ weight: 30
 
 
 ## EOS Costa Rica Block Producer Documentation
-
+Please visit [EOS Costa Rica](eoscostarica.io) website
 
 ## Architecture
 
