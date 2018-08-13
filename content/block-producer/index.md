@@ -15,7 +15,7 @@ DPoS differs from  proof of work  consensus , used by Bitcoin and Ethereum, beac
 
 All BPs are continually competing to align best with voter and community interests, in order to be voted from back up node to full block producer, which means many will be community focused in doing projects to educate, build dApps that strengthen EOS and so forth.
 
-As a token holder you are under no obligation to vote, although doing so will only lock tokens for 3 days now so if you learn enough to decide you are making an informed vote then you may decide it is a good use of tokens.
+As a token holder you are under no obligation to vote, although in order to vote users must "stake" their tokens for at least 3 days. EOS token holders are highly encouraged to make an informed vote as voting for the best BPs who reinvest in the network will ultimately be reflected in the value of EOS Tokens.
 
 ## EOS Costa Rica Information
 Please visit [EOS Costa Rica](eoscostarica.io) website
