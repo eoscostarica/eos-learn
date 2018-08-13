@@ -5,10 +5,19 @@ weight: 30
 ---
 
 
-## EOS Costa Rica Block Producer Documentation
+## What is a Block Producer?
+
+Block producers provide the infrastructure required to run the underlying network layer to process all transactions. Some block producers run their own "Bare Metal Servers" meaning they own and operate their own physical euipment . Other Block producers provide the serivce by using a third party cloud services provider.  
+
+The "Delegated Proof of steak" or DPoS concensus algorithim, which is the system that EOS.IO operates on, Block Producers replace the concept of “miners” as the custodians of the network, [Technical White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
+
+DPoS differs from  proof of work  consensus , used by Bitcoin and Ethereum, beacuse there is no expensive, wasteful electricity that is paid for through inflation and new coin emission, instead Block Producers service the community and network, implement arbitration decisions when instructed and make the hardware investments required to scale the network. This is “paid” for through inflation.
+
+All BPs are continually competing to align best with voter and community interests, in order to be voted from back up node to full block producer, which means many will be community focused in doing projects to educate, build dApps that strengthen EOS and so forth.
+
+As a token holder you are under no obligation to vote, although doing so will only lock tokens for 3 days now so if you learn enough to decide you are making an informed vote then you may decide it is a good use of tokens.
+
+## EOS Costa Rica Information
 Please visit [EOS Costa Rica](eoscostarica.io) website
 
-## Architecture
-
-
-## Roadmap
+## Block Producer Lists
