@@ -43,19 +43,25 @@ googleAnalytics = ""
 	github  = "eoscostarica"
 	email   = "bp@eosio.cr"
 
-[[menu.main]]
-	name   = "EOS Blockchain"
-	url    = "eos-blockchain/"
-	weight = 40
 
 [[menu.main]]
 	name   = "Open Source"
 	url    = "open-source/"
+	weight = 40
+
+[[menu.main]]
+	name   = "Dev Tools"
+	url    = "tools/"
+	weight = 50
+
+[[menu.main]]
+	name   = "Block Producers"
+	url    = "block-producer/"
 	weight = 30
 
 [[menu.main]]
-	name   = "Block Producer"
-	url    = "block-producer/"
+	name   = "EOS Blockchain"
+	url    = "eos-blockchain/"
 	weight = 20
 
 [[menu.main]]

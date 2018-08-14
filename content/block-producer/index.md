@@ -19,5 +19,3 @@ As a token holder you are under no obligation to vote, although in order to vote
 
 ## EOS Costa Rica Information
 Please visit [EOS Costa Rica](eoscostarica.io) website
-
-## Block Producer Lists
