@@ -18,7 +18,7 @@ layout: single
 
 - [developers.eos.io](https://developers.eos.io).
 
-## Videos
+## Getting Started Videos
 
 <p align="center"><b>How Does a Blockchain Work - Simply Explained</b></p>
 <p align="center">
