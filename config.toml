@@ -47,7 +47,7 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Open Source"
 	url    = "open-source/"
-	weight = 40
+	weight = 60
 
 [[menu.main]]
 	name   = "Dev Tools"
@@ -57,6 +57,12 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Block Producers"
 	url    = "block-producer/"
+	weight = 40
+
+
+[[menu.main]]
+	name   = "Delegated Proof of Stake (DPOS)"
+	url    = "delegated-proof-of-stake/"
 	weight = 30
 
 [[menu.main]]
