@@ -10,6 +10,10 @@ layout: single
 		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="600">
 </p>
 
+## What is EOSIO ##
+
+[EOSIO](https://eos.io/) is a free, open-source blockchain software protocol that provides developers and entrepreneurs with a platform on which to build, deploy and run high-performing decentralized applications (DAPPs)
+
 **Official Documentation**
 
 - [developers.eos.io](https://developers.eos.io).
