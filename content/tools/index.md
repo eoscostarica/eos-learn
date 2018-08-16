@@ -1,6 +1,7 @@
 ---
 title: "EOS Costa Rica Dev Learning Tools"
 date: 2018-08-14T09:24:57-06:00
+weight: 50
 ---
 
 ## EOS Developer Learning Tools

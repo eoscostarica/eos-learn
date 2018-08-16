@@ -1,6 +1,6 @@
 ---
 title: Open Source Contributing Guidelines
-weight: 20
+weight: 60
 ---
 
 ## Development Process
