@@ -4,7 +4,7 @@ date: 2018-08-14T09:24:57-06:00
 weight: 50
 ---
 
-## EOS Developer Learning Tools
+## EOS Costa Rica Tools
 
 Our development team is constantly working on providing new tools to help the community build on EOS and learn from our experiences, here is a lost of tools we have made available to the community so far.
 
@@ -24,3 +24,26 @@ This project wraps the official eosio/eosjs-api to provide camelcase output. It 
 
 ### [Fastify + EOS](https://github.com/eoscostarica/fastify-eos)
 A plugin that decorates Fastify with an EOS.js instance.
+
+## Governance
+
+wip...
+
+## RAM Market
+
+wip...
+
+## Ricardian Contracts
+
+wip...
+
+### EOS Official Documentation
+
+- https://developers.eos.io
+
+## Blockgenic Recources
+
+- [EOS Accounts, How They Work and How To Get One](https://medium.com/blockgenic/eos-accounts-how-they-work-and-how-to-get-one-87019c0f7bc7)
+- [EOS Proxy Voting: Everything You Need To Know](https://medium.com/blockgenic/eos-proxy-voting-everything-you-need-to-know-e4c9783249e3)
+- [How To Launch A Single Host Mulit-Node Testnet](https://medium.com/blockgenic/single-host-multi-node-testnet-on-eos-6d940811a03)
+- [Guide To Secure Command Line Voting](https://medium.com/blockgenic/guide-to-secure-command-line-voting-on-the-eos-mainnet-ddcc3fbe0db)
