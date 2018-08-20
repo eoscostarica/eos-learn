@@ -47,33 +47,52 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Open Source"
 	url    = "open-source/"
-	weight = 60
+	weight = 10
 
 [[menu.main]]
 	name   = "Dev Tools"
 	url    = "tools/"
-	weight = 50
+	weight = 9
+
+[[menu.main]]
+	name   = "EOS Funds"
+	url    = "eos-funds/"
+	weight = 8
+
+[[menu.main]]
+	name   = "DAPP Resource Usage"
+	url    = "resource-usage/"
+	weight = 6
+
+[[menu.main]]
+	name   = "EOS Accounts"
+	url    = "eos-accounts/"
+	weight = 5
 
 [[menu.main]]
 	name   = "Block Producers"
 	url    = "block-producer/"
-	weight = 40
+	weight = 4
 
+[[menu.main]]
+	name   = "Governance"
+	url    = "governance"
+	weight = 7
 
 [[menu.main]]
 	name   = "Delegated Proof of Stake (DPOS)"
 	url    = "delegated-proof-of-stake/"
-	weight = 30
+	weight = 3
 
 [[menu.main]]
 	name   = "EOS Blockchain"
 	url    = "eos-blockchain/"
-	weight = 20
+	weight = 2
 
 [[menu.main]]
 	name   = "Introduction"
 	url    = "/"
-	weight = 10
+	weight = 1
 
 
 [blackfriday]
