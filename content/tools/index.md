@@ -25,21 +25,6 @@ This project wraps the official eosio/eosjs-api to provide camelcase output. It 
 ### [Fastify + EOS](https://github.com/eoscostarica/fastify-eos)
 A plugin that decorates Fastify with an EOS.js instance.
 
-## Governance
-
-wip...
-
-## RAM Market
-
-wip...
-
-## Ricardian Contracts
-
-wip...
-
-### EOS Official Documentation
-
-- https://developers.eos.io
 
 ## Blockgenic Recources
 
