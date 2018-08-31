@@ -5,5 +5,4 @@ draft: true
 ---
 
 ## Ricardian Contracts
-
 wip...s
