@@ -45,6 +45,11 @@ googleAnalytics = ""
 
 
 [[menu.main]]
+	name   = "Reading List & Links"
+	url    = "reading-list/"
+	weight = 11
+
+[[menu.main]]
 	name   = "Open Source"
 	url    = "open-source/"
 	weight = 10
