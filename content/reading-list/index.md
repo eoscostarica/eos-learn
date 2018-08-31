@@ -1,4 +1,4 @@
-##Reading List
+## EOS Costa Rica Recommended Reading List
 [Review and Buy on Amazon](https://www.amazon.com/registry/wishlist/1EX9QQQTKS5KK/ref=cm_sw_r_cp_ep_ws_qE1yBb9Q70JWP)
 
 - **Irrational Exuberance: Revised and Expanded Third Edition**
