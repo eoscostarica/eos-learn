@@ -17,6 +17,4 @@ EOS.IO software utilizes the only known decentralized consensus algorithm proven
 
 ### DPOS Resources ###
  - [DPOS Consensus Algorithm - The Missing White Paper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)
-=======
-### DPOS Resources ###	
  - [BitShares DPOS](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)
