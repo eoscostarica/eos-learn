@@ -47,22 +47,32 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Reading List & Links"
 	url    = "reading-list/"
-	weight = 11
+	weight = 12
 
 [[menu.main]]
 	name   = "Open Source"
 	url    = "open-source/"
-	weight = 10
+	weight = 11
 
 [[menu.main]]
 	name   = "Dev Tools"
 	url    = "tools/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Governance"
+	url    = "governance"
 	weight = 9
 
 [[menu.main]]
-	name   = "EOS Funds"
-	url    = "eos-funds/"
+	name   = "Dev Tools"
+	url    = "tools/"
 	weight = 8
+
+[[menu.main]]
+	name   = "Smart Contracts"
+	url    = "smart-contracts/"
+	weight = 7
 
 [[menu.main]]
 	name   = "DAPP Resource Usage"
@@ -78,11 +88,6 @@ googleAnalytics = ""
 	name   = "Block Producers"
 	url    = "block-producer/"
 	weight = 4
-
-[[menu.main]]
-	name   = "Governance"
-	url    = "governance"
-	weight = 7
 
 [[menu.main]]
 	name   = "Delegated Proof of Stake (DPOS)"
