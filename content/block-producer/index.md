@@ -8,7 +8,7 @@ weight: 40
 
 Block producers provide the infrastructure required to run the underlying network layer to process all transactions. Some block producers run their own "Bare Metal Servers" meaning they own and operate their own physical equipment . Other Block producers provide the service by using third party cloud services.  
 
-The "Delegated Proof of steak" or DPoS consensus algorithm, which is the system that EOS.IO operates on, Block Producers replace the concept of “miners” as the custodians of the network, [Technical White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
+The "Delegated Proof of Stake" or DPoS consensus algorithm, which is the system that EOS.IO operates on, Block Producers replace the concept of “miners” as the custodians of the network, [Technical White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).
 
 DPoS differs from  proof of work  consensus , used by Bitcoin and Ethereum, because there is no expensive, wasteful electricity that is paid for through inflation and new coin emission, instead Block Producers service the community and network, implement arbitration decisions when instructed and make the hardware investments required to scale the network. This is “paid” for through inflation.
 
