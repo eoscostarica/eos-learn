@@ -142,6 +142,10 @@ layout: single
 	</a>
 </p>
 
+## Useful Resources
+
+- [EOS Help Desk](https://helpdesk.eostoolkit.io/)
+- [Great Collection of EOS Video Tutorials](https://www.youtube.com/user/jackodwhacko/videos)
 
 ## Articles
 
@@ -152,9 +156,9 @@ layout: single
 - [The Ultimate End-to-End EOS dApp Development Tutorial — Part 1](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c).
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980).
 - [Blockgeeks - EOS Blockchain](https://blockgeeks.com/guides/eos-blockchain/).
-- [Great Collection of EOS Video Tutorials](https://www.youtube.com/user/jackodwhacko/videos)
 
-## Github
+
+## GitHub
 
 - [EOS-Nation/Awesome-EOS](https://github.com/EOS-Nation/Awesome-EOS)
 - [DanailMinchev/awesome-eos](https://github.com/DanailMinchev/awesome-eos)

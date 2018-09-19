@@ -8,3 +8,6 @@ date: 2018-08-16T14:50:47-06:00
 
 ### Creating an EOS account
 [![Creating an EOS account](https://img.youtube.com/vi/OmYBv7TfgC4/0.jpg)](https://www.youtube.com/watch?v=OmYBv7TfgC4&index=4&list=PLL5pYVd8AWtSW4lHcWplRP6rTybxxj3yu)
+
+### How to generate an EOS key pair safely OFFLINE
+[![Make a new private key and public address](https://img.youtube.com/vi/XaQEOz8nDVI/0.jpg)](https://www.youtube.com/watch?v=XaQEOz8nDVI)

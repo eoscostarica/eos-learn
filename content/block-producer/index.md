@@ -16,5 +16,7 @@ All BPs are continually competing to align best with voter and community interes
 
 As a token holder you are under no obligation to vote, although in order to vote users must "stake" their tokens for at least 3 days. EOS token holders are highly encouraged to make an informed vote as voting for the best BPs who reinvest in the network will ultimately be reflected in the value of EOS Tokens.
 
+[![Explaining the Role of an EOS Block Producer](https://img.youtube.com/vi/YLt5uexD9gg/0.jpg)](https://www.youtube.com/watch?v=YLt5uexD9gg)
+
 ## EOS Costa Rica Information
 Please visit [EOS Costa Rica](eoscostarica.io) website
