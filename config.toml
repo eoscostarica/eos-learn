@@ -47,6 +47,11 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Reading List & Links"
 	url    = "reading-list/"
+	weight = 13
+
+[[menu.main]]
+	name   = "Presentations & Slide Decks"
+	url    = "presentations/"
 	weight = 12
 
 [[menu.main]]
