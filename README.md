@@ -43,31 +43,31 @@ yarn start
 
 ## Contributing
 
-We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across New Issues, To Do, In Progress and Done columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/eos-learning-resources/projects/1).
+We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across `New Issues`, `To Do`, `In Progress` and `Done` columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/eos-learning-resources/projects/1).
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
 ## Bug Reporting
 
-Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No possible bug report is too small.
+Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No bug report is too small.
 
 ## Project Directory Structure
 
 ```
 .
-├── themes/ ............................................ hugo themes
-├── archetypes/ ........................................ hugo archetypes
-├── content/ ........................................... contents in markdown
-├── data/ .............................................. hugo project data config files
-├── layouts/ ........................................... hugo project layout templates ( overrides the theme )
-├── static/ ............................................ static files used by hugo
-├── public/ ............................................ generated site files
-├── CONTRIBUTING.md .................................... contributing guidelines
-├── LICENSE ............................................ project license
-├── README.md .......................................... project homepage
-├── package.json ....................................... dependencies manifest
-├── config.toml ........................................ hugo config
-└── .travis.yml ........................................ travis ci configuration file
+├── themes/ ................................ hugo themes
+├── archetypes/ ............................ hugo archetypes
+├── content/ ............................... contents in markdown
+├── data/ .................................. hugo project data config files
+├── layouts/ ............................... hugo project layout templates ( overrides the theme )
+├── static/ ................................ static files used by hugo
+├── public/ ................................ generated site files
+├── CONTRIBUTING.md ........................ contributing guidelines
+├── LICENSE ................................ project license
+├── README.md .............................. project homepage
+├── package.json ........................... dependencies manifest
+├── config.toml ............................ hugo config
+└── .travis.yml ............................ travis ci configuration file
 ```
 
 more https://gohugo.io/getting-started/directory-structure/
@@ -85,11 +85,11 @@ We follow a continuous integration process based on Github flow that leverages t
 
 ## About EOS Costa Rica
 
-EOS Blockchain is aiming to become a decentralized operating system which can support large-scale decentralized applications.
+[EOS](https://eos.io/) is aiming to become a decentralized operating system which can support large-scale decentralized applications.
 
-EOS Costa Rica supports the global and local open source efforts and development communities by maintaining and contribute to open source initiatives, meetups and workshops.
+[EOS Costa Rica](https://eoscostarica.io) supports global and local open source efforts and development communities by maintaining and contributing to open source initiatives, meetups and workshops.
 
-We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
+We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica. We pledge to leverage our talent, experience, and sustainable internet resources to meet this important challenge.
 
 [eoscostarica.io](https://eoscostarica.io)
 
