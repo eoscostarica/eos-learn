@@ -144,6 +144,7 @@ layout: single
 
 ## Useful Resources
 
+- [Block 1 Hackathon Getting Started guide](https://gist.github.com/sergmetelin/077704472e7b22349735757f64d7a929)
 - [EOS Help Desk](https://helpdesk.eostoolkit.io/)
 - [Great Collection of EOS Video Tutorials](https://www.youtube.com/user/jackodwhacko/videos)
 
