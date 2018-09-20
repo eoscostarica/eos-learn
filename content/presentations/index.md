@@ -8,9 +8,9 @@ draft: false
 
 PowerPoint formatted presentations from previous community meet-ups.
 
-- [Intro to Blockchain](/presentations/introduccionblockchain.pptx)
+- [Intro to Blockchain](/presentations/introduccionblockchain.pdf)
 
-- [Blockchain 3.0](/presentations/eoscostarica-blockchain3-0.pptx)
+- [Blockchain 3.0](/presentations/eoscostarica-blockchain3-0.pdf)
 
 ## EOS Costa Rica Design Assets
 
