@@ -1,0 +1,48 @@
+{
+  "projectName": "eos-learn",
+  "projectOwner": "eoscostarica",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gaboesquivel",
+      "name": "Gabo Esquivel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/391270?v=4",
+      "profile": "https://gaboesquivel.com",
+      "contributions": [
+        "code",
+        "review",
+        "blog",
+        "talk"
+      ]
+    },
+    {
+      "login": "xavier506",
+      "name": "Xavier Fernandez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5632966?v=4",
+      "profile": "https://eoscostarica.io",
+      "contributions": [
+        "code",
+        "review",
+        "blog",
+        "talk"
+      ]
+    },
+    {
+      "login": "edgar-eoscostarica",
+      "name": "Edgar Fernandez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40245170?v=4",
+      "profile": "http://www.eoscostarica.io",
+      "contributions": [
+        "review",
+        "blog",
+        "talk"
+      ]
+    }
+  ]
+}

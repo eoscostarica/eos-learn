@@ -41,16 +41,6 @@ cd docs
 yarn start
 ```
 
-## Contributing
-
-We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across `New Issues`, `To Do`, `In Progress` and `Done` columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/eos-learning-resources/projects/1).
-
-Read the [contributing guidelines](CONTRIBUTING.md) for details.
-
-## Bug Reporting
-
-Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No bug report is too small.
-
 ## Project Directory Structure
 
 ```
@@ -70,7 +60,7 @@ Please report bugs big and small by [opening an issue](https://github.com/eoscos
 └── .travis.yml ............................ travis ci configuration file
 ```
 
-more https://gohugo.io/getting-started/directory-structure/
+Learn more https://gohugo.io/getting-started/directory-structure/
 
 ## Continuous Integration Process
 
@@ -78,21 +68,28 @@ We follow a continuous integration process based on Github flow that leverages t
 
 - [TravisCI](https://travis-ci.org/) to run test and code style checks.
 
-## Maintainers
-
-- [@gaboesquivel](https://github.com/gaboesquivel).
-- [@xavier506](https://github.com/xavier506).
-
-## About EOS Costa Rica
-
-[EOS](https://eos.io/) is aiming to become a decentralized operating system which can support large-scale decentralized applications.
-
-[EOS Costa Rica](https://eoscostarica.io) supports global and local open source efforts and development communities by maintaining and contributing to open source initiatives, meetups and workshops.
-
-We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica. We pledge to leverage our talent, experience, and sustainable internet resources to meet this important challenge.
-
-[eoscostarica.io](https://eoscostarica.io)
-
 ## License
 
 MIT © [EOS Costa Rica](https://eoscostarica.io)  
+
+## About EOS Costa Rica
+
+EOS Blockchain is aiming to become a decentralized operating system which can support large-scale decentralized applications.
+
+EOS Costa Rica supports the EOSIO community by maintaining and contributing to open source initiatives, meetups and workshops.
+
+We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
+
+[eoscostarica.io](https://eoscostarica.io)
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars0.githubusercontent.com/u/391270?v=4" width="100px;"/><br /><sub><b>Gabo Esquivel</b></sub>](https://gaboesquivel.com)<br />[💻](https://github.com/eoscostarica/eos-learn/commits?author=gaboesquivel "Code") [👀](#review-gaboesquivel "Reviewed Pull Requests") [📝](#blog-gaboesquivel "Blogposts") [📢](#talk-gaboesquivel "Talks") | [<img src="https://avatars0.githubusercontent.com/u/5632966?v=4" width="100px;"/><br /><sub><b>Xavier Fernandez</b></sub>](https://eoscostarica.io)<br />[💻](https://github.com/eoscostarica/eos-learn/commits?author=xavier506 "Code") [👀](#review-xavier506 "Reviewed Pull Requests") [📝](#blog-xavier506 "Blogposts") [📢](#talk-xavier506 "Talks") | [<img src="https://avatars2.githubusercontent.com/u/40245170?v=4" width="100px;"/><br /><sub><b>Edgar Fernandez</b></sub>](http://www.eoscostarica.io)<br />[👀](#review-edgar-eoscostarica "Reviewed Pull Requests") [📝](#blog-edgar-eoscostarica "Blogposts") [📢](#talk-edgar-eoscostarica "Talks") |
+| :---: | :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
