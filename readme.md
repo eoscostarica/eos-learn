@@ -29,14 +29,16 @@ Website with curated EOS learning resources.  [learn.eoscostarica.io](https://le
 
 # Local Setup
 
-- Node https://gaboesquivel.com/blog/2015/automatic-node.js-version-switching/
+- Node.js v10 on your machine. We recommend using [nvm](https://github.com/creationix/nvm) and [avn](https://github.com/wbyoung/avn) to manage multiple node.js versions on your computer.
 - Hugo https://gohugo.io/getting-started/installing
 - Yarn https://yarnpkg.com/lang/en/docs/install/
+
+On MacOS
 
 ```
 brew install hugo
 brew install yarn
-git clone git@github.com:eoscostarica/eos-learning-resources.git
+git clone git@github.com:eoscostarica/eos-learn.git
 cd docs
 yarn start
 ```
