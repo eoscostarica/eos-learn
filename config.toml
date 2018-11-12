@@ -47,42 +47,27 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Reading List & Links"
 	url    = "reading-list/"
-	weight = 13
+	weight = 13	
 
-[[menu.main]]
-	name   = "Presentations & Slide Decks"
-	url    = "presentations/"
-	weight = 12
+# [[menu.main]]
+# 	name   = "Dev Tools"
+# 	url    = "tools/"
+# 	weight = 10
 
-[[menu.main]]
-	name   = "Open Source"
-	url    = "open-source/"
-	weight = 11
+# [[menu.main]]
+# 	name   = "Governance"
+# 	url    = "governance"
+# 	weight = 9
 
-[[menu.main]]
-	name   = "Dev Tools"
-	url    = "tools/"
-	weight = 10
+# [[menu.main]]
+# 	name   = "Smart Contracts"
+# 	url    = "smart-contracts/"
+# 	weight = 7
 
-[[menu.main]]
-	name   = "Governance"
-	url    = "governance"
-	weight = 9
-
-[[menu.main]]
-	name   = "Dev Tools"
-	url    = "tools/"
-	weight = 8
-
-[[menu.main]]
-	name   = "Smart Contracts"
-	url    = "smart-contracts/"
-	weight = 7
-
-[[menu.main]]
-	name   = "DAPP Resource Usage"
-	url    = "resource-usage/"
-	weight = 6
+# [[menu.main]]
+# 	name   = "DAPP Resource Usage"
+# 	url    = "resource-usage/"
+# 	weight = 6
 
 [[menu.main]]
 	name   = "EOS Accounts"
