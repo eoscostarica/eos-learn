@@ -52,9 +52,9 @@ yarn start
 ├── layouts/ ............................... hugo project layout templates ( overrides the theme )
 ├── static/ ................................ static files used by hugo
 ├── public/ ................................ generated site files
-├── CONTRIBUTING.md ........................ contributing guidelines
-├── LICENSE ................................ project license
-├── README.md .............................. project homepage
+├── contributing.md ........................ contributing guidelines
+├── license ................................ project license
+├── readme.md .............................. project homepage
 ├── package.json ........................... dependencies manifest
 ├── config.toml ............................ hugo config
 └── .travis.yml ............................ travis ci configuration file
@@ -68,17 +68,27 @@ We follow a continuous integration process based on Github flow that leverages t
 
 - [TravisCI](https://travis-ci.org/) to run test and code style checks.
 
+## Contributing
+
+We use a Kanban-style board. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/eos-learn/projects/1).
+
+The main communication channels are [github issues](https://github.com/eoscostarica/eos-learn/issues) and [EOS Costa Rica's Discord server](https://eoscostarica.io/discord). Feel to join and ask as many questions you may have.
+
+Our weekly sync call is every Monday 1:00 AM UTC. [meet.eoscostarica.io](https:/meet.eoscostarica.io).
+
+Contributing Guidelines https://learn.eoscostarica.io/open-source/.
+
+Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/eos-learn/issues)
+
 ## License
 
 MIT © [EOS Costa Rica](https://eoscostarica.io)  
 
 ## About EOS Costa Rica
 
-EOS Blockchain is aiming to become a decentralized operating system which can support large-scale decentralized applications.
+We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
 
 EOS Costa Rica supports the EOSIO community by maintaining and contributing to open source initiatives, meetups and workshops.
-
-We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
 
 [eoscostarica.io](https://eoscostarica.io)
 
