@@ -14,20 +14,20 @@ Digital Scarcity's [github repo](https://github.com/digital-scarcity/equiprental
 
 ### Process Steps
 Here are the general steps to developing a smart contract.
-![alt text](/static/images/contracts/steps.png "Steps")
+![alt text](/images/contracts/steps.png "Steps")
 
 
 ### Data Model
 Define the data that will be persisted in the smart contract
-![alt text](/static/images/contracts/datamodel.png "Data Model")
+![alt text](/images/contracts/datamodel.png "Data Model")
 
 ### Actions
 Define the actions, or state changes, that must exist in your smart contract
-![alt text](/static/images/contracts/actions.png "Actions")
+![alt text](/images/contracts/actions.png "Actions")
 
 ### Pre- and Post-Conditions
 Define the actions, or state changes, that must exist in your smart contract
-![alt text](/static/images/contracts/prepostconditions.png "Pre- and Post-Conditions")
+![alt text](/images/contracts/prepostconditions.png "Pre- and Post-Conditions")
 
 
 ## Tutorial
