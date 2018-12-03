@@ -59,10 +59,10 @@ googleAnalytics = ""
 # 	url    = "governance"
 # 	weight = 9
 
-# [[menu.main]]
-# 	name   = "Smart Contracts"
-# 	url    = "smart-contracts/"
-# 	weight = 7
+[[menu.main]]
+ 	name   = "Smart Contracts"
+ 	url    = "smart-contracts/"
+ 	weight = 6
 
 # [[menu.main]]
 # 	name   = "DAPP Resource Usage"
