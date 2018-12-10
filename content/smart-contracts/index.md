@@ -31,5 +31,10 @@ Define the actions, or state changes, that must exist in your smart contract
 
 
 ## Open Source Smart Contracts 
-We maintain a list of open source EOS Smart Contracts in the following repo.
+We maintain a list of open source EOS Smart Contracts in the following repo:
+
 https://github.com/eoscostarica/eos-contracts
+
+Also check out this list of open source contracts for EOSIO maintained by César Rodríguez :
+
+https://github.com/kesar/eos-awesome-contracts
