@@ -43,6 +43,12 @@ googleAnalytics = ""
 	github  = "eoscostarica"
 	email   = "bp@eosio.cr"
 
+
+[[menu.main]]
+	name   = "EOS Podcasts"
+	url    = "eos-podcasts/"
+	weight = 6
+
 [[menu.main]]
 	name   = "DApp Development"
 	url    = "dapp-development/"
