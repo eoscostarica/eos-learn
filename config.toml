@@ -1,6 +1,6 @@
 baseURL = "https://learn.eoscostarica.io/"
 languageCode = "en-us"
-title = "EOS Learning Resources by EOS Costa Rica"
+title = "EOSIO Learning Resources by EOS Costa Rica"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -43,35 +43,9 @@ googleAnalytics = ""
 	github  = "eoscostarica"
 	email   = "bp@eosio.cr"
 
-
 [[menu.main]]
-	name   = "Reading List & Links"
-	url    = "reading-list/"
-	weight = 13	
-
-# [[menu.main]]
-# 	name   = "Dev Tools"
-# 	url    = "tools/"
-# 	weight = 10
-
-# [[menu.main]]
-# 	name   = "Governance"
-# 	url    = "governance"
-# 	weight = 9
-
-[[menu.main]]
- 	name   = "Smart Contracts"
- 	url    = "smart-contracts/"
- 	weight = 6
-
-# [[menu.main]]
-# 	name   = "DAPP Resource Usage"
-# 	url    = "resource-usage/"
-# 	weight = 6
-
-[[menu.main]]
-	name   = "EOS Accounts"
-	url    = "eos-accounts/"
+	name   = "DApp Development"
+	url    = "dapp-development/"
 	weight = 5
 
 [[menu.main]]
@@ -80,17 +54,17 @@ googleAnalytics = ""
 	weight = 4
 
 [[menu.main]]
-	name   = "Delegated Proof of Stake (DPOS)"
-	url    = "delegated-proof-of-stake/"
+	name   = "EOS Blockchain"
+	url    = "eos-blockchain/"
 	weight = 3
 
 [[menu.main]]
-	name   = "EOS Blockchain"
-	url    = "eos-blockchain/"
+	name   = "EOSIO Software"
+	url    = "eosio-software/"
 	weight = 2
 
 [[menu.main]]
-	name   = "Introduction"
+	name   = "Blockchain Basics"
 	url    = "/"
 	weight = 1
 
