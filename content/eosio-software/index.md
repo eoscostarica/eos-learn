@@ -58,8 +58,4 @@ The basic relationship between these components is illustrated in the following 
   <small>source: developers.eos.io/eosio-nodeos/docs</small>
 </p>
 
-<!-- ## An Introduction to WebAssembly
-
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zxy0xqQs-k4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+Learn more at https://developers.eos.io/
