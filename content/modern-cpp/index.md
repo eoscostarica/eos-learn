@@ -45,9 +45,19 @@ date: 2018-09-13T14:51:37-06:00
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nnY4e4faNp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## It's Complicated
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tTexD26jIN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The Cherno Project
 
 https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
+
+## Better Code by Sean Parent
+
+https://www.youtube.com/watch?v=QGcVXgEVMJg&list=PLiWEEi8ezRkXoi4nJcPzyPlbXhnSA2VvB
 
 ## CPPCon Videos
 
@@ -72,3 +82,11 @@ https://github.com/eoscostarica/awesome-modern-cpp
 ## Modern C++ Features
 
 https://github.com/eoscostarica/modern-cpp-features
+
+## C++ Tips
+
+https://abseil.io/tips/
+
+## Google's C++ Class
+
+https://developers.google.com/edu/c++/
