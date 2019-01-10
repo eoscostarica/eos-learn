@@ -28,8 +28,11 @@ More on Max G's channel https://www.youtube.com/user/apexmaxable/videos
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4OmQ7Ow9baI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Getting Started 
 
-## Smart Contract Design Framework 
+https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
+
+## Design Framework 
 
 A contract is an agreement governing outcomes for actions, given a set of inputs. A contract can range from formal legal contracts (e.g., a financial transaction) to something as simple as the "rules" of a game. Typical actions can be things such as fund transfers (in the case of a financial contract) or game moves (in the case of a game contract).
 
@@ -40,7 +43,6 @@ Digital Scarcity's [github repo](https://github.com/digital-scarcity/equiprental
 ### Process Steps
 Here are the general steps to developing a smart contract.
 ![alt text](/images/contracts/steps.png "Steps")
-
 
 ### Data Model
 Define the data that will be persisted in the smart contract
@@ -60,11 +62,17 @@ EOS Costa Rica maintains a list of open source EOS smart contracts you can use a
 
 https://github.com/eoscostarica/eos-contracts
 
-## EOSIO DApp Boilerplate
+## Jungle Testnet
 
-This boilerplate provides a very quick way to get started with application development on the EOSIO platform. It's an opinioned selection of technologies that will allow you to build performant and scalable EOSIO dApps.
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/s3EM3Hw1S8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-https://github.com/eoscostarica/eos-dapp-boilerplate 
+More at https://jungletestnet.io
+
+## Kylin Testnet
+
+https://www.cryptokylin.io/
 
 ## Development Environment
 
@@ -80,9 +88,11 @@ Python-based EOS smart-contract development & testing framework.
 
 https://github.com/tokenika/eosfactory
 
-## Getting Started with Smart Contracts.
+## EOSIO DApp Boilerplate
 
-https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
+This boilerplate provides a very quick way to get started with application development on the EOSIO platform. It's an opinioned selection of technologies that will allow you to build performant and scalable EOSIO dApps.
+
+https://github.com/eoscostarica/eos-dapp-boilerplate 
 
 ## EOSIO Developers Portal
 
@@ -92,5 +102,9 @@ https://developers.eos.io/
 
 <div class="rwd-media">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5Uj6uR3fp-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HUVmypx9HGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
