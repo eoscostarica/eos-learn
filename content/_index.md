@@ -82,12 +82,6 @@ layout: single
     <iframe width="560" height="315" src="https://www.youtube.com/embed/AQDCe585Lnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Hash Tables and Hash Functions
-
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/KyUTuwz_b7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Blockchain From a Git Perspective
 
 <div class="rwd-media">
