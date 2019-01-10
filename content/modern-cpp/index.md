@@ -27,7 +27,13 @@ date: 2018-09-13T14:51:37-06:00
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fX2W3nNjJIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Practical C++17
+##  Essentials of Modern C++ Style
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xnqTKD8uD64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Practical C++ 17
 
 <div class="rwd-media">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nnY4e4faNp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
