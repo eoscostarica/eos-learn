@@ -6,6 +6,12 @@ weight: 0
 layout: single
 ---
 
+## What is Blockchain?
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3xGLc-zz9cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Blockchain Use Cases 
 
 <div class="rwd-media">
