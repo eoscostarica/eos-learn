@@ -49,3 +49,14 @@ https://www.youtube.com/user/lefticus1
 
 https://www.youtube.com/user/BoostCon
 
+## The C++ Core Guidelines
+
+https://github.com/eoscostarica/CppCoreGuidelines
+
+## Awesome Modern C++
+
+https://github.com/eoscostarica/awesome-modern-cpp
+
+## Modern C++ Features
+
+https://github.com/eoscostarica/modern-cpp-features
