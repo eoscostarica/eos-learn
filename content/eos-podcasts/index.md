@@ -67,18 +67,6 @@ https://www.youtube.com/channel/UCR9iyxumPn7n14nbBocfCMQ
 
 https://www.youtube.com/channel/UCgXggdgpan84WJmR5gLSwhw
 
-## Max G
-
-https://www.youtube.com/user/apexmaxable
-
-## NSJames
-
-https://www.youtube.com/user/grandmoren1
-
-## Jackson Kelley
-
-https://www.youtube.com/user/jackodwhacko
-
 ## Thomas Cox
 
 https://www.youtube.com/channel/UC1YXNL469qIagGyTzZM-uRw
