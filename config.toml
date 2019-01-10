@@ -47,21 +47,26 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "EOS Podcasts"
 	url    = "eos-podcasts/"
-	weight = 8
+	weight = 9
 
 [[menu.main]]
 	name   = "Modern C++"
 	url    = "modern-cpp/"
-	weight = 7
+	weight = 8
 
 [[menu.main]]
 	name   = "EOSIO Sister Chains"
 	url    = "eosio-sister-chains/"
-	weight = 6
+	weight = 7
 
 [[menu.main]]
 	name   = "DApp Development"
 	url    = "dapp-development/"
+	weight = 6
+
+[[menu.main]]
+	name   = "Block Explorers"
+	url    = "block-explorers/"
 	weight = 5
 
 [[menu.main]]
