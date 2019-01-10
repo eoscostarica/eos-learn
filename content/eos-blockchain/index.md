@@ -14,10 +14,22 @@ weight: 20
     <iframe width="560" height="315" src="https://www.youtube.com/embed/IjrDj6KQGe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Why EOS is Built for dApps
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UL4pUnWqq6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Internal Economics
 
 <div class="rwd-media">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2EgBTvUeH30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# EOS Explained by Dan Larimer   
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xkXuFeN-KMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## EOS Resource Allocation 
