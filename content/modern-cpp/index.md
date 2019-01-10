@@ -33,6 +33,12 @@ date: 2018-09-13T14:51:37-06:00
     <iframe width="560" height="315" src="https://www.youtube.com/embed/xnqTKD8uD64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 10 Core Guidelines
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XkDEzfpdcSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Practical C++ 17
 
 <div class="rwd-media">
