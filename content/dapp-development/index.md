@@ -4,16 +4,6 @@ title: DApp Development
 weight: 20
 ---
 
-## C++ Programming 
-
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/18c3MTX0PK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rub-JsjMhWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Building Decentralized Apps
 
 <div class="rwd-media">
