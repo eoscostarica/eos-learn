@@ -24,6 +24,18 @@ layout: single
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TtNPF1gCiXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Blockchain Technology Explained
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eXJHPDs4M3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Blockchain Explained in 1 Minute
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_BIsffqaW1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## How Does a Blockchain Work?
 
 <div class="rwd-media">
@@ -41,11 +53,58 @@ layout: single
 </div>
 
 ## Introduction to Blockchain
+
 <div class="rwd-media">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sYAktmG1NuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Asymmetric encryption
+## What is Hashing?
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2BldESGZKB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Cryptography Explained
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/t21O-EiwzKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Asymmetric Encryption
+
 <div class="rwd-media">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/AQDCe585Lnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Hash Tables and Hash Functions
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KyUTuwz_b7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Blockchain From a Git Perspective
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SsH6ju22Hac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## How Merkle Trees Enable the Decentralized Web
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YIc6MNfv5iQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Programmer Explains Merkle Tree 
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VkWiTvPnTcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Merkle Tree Simple Explanation of Code
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FDXPtOqtdE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
