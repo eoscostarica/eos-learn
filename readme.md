@@ -74,10 +74,6 @@ We follow a continuous integration process based on Github flow that leverages t
 
 We use a Kanban-style board. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/eos-learn/projects/1).
 
-The main communication channels are [github issues](https://github.com/eoscostarica/eos-learn/issues) and [EOS Costa Rica's Discord server](https://eoscostarica.io/discord). Feel to join and ask as many questions you may have.
-
-Our weekly sync call is every Monday 1:00 AM UTC. [meet.eoscostarica.io](https:/meet.eoscostarica.io).
-
 Contributing Guidelines https://developers.eoscostarica.io/docs/open-source-guidelines.
 
 Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/eos-learn/issues)
@@ -88,9 +84,7 @@ MIT © [EOS Costa Rica](https://eoscostarica.io)
 
 ## About EOS Costa Rica
 
-We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
-
-EOS Costa Rica supports the EOSIO community by maintaining and contributing to open source initiatives, meetups and workshops.
+EOS Costa Rica is an independently-owned, self-funded, bare-metal genesis block producer that provides stable and secure infrastructure for EOSIO blockchains. We support open source software for our community while offering enterprise solutions and custom smart contract development for our clients.
 
 [eoscostarica.io](https://eoscostarica.io)
 
