@@ -58,6 +58,12 @@ https://www.youtube.com/embed/EnJ7qX9fkcU&list=PL7bmigfV0EqQt5_pBPQ8tsZjI1w68-e0
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2vMEQ5zs1ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+# Introduction to Terraform ( Infrastructure as Code )
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cpxKbf51ccU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Introduction to HashiCorp Terraform with Armon Dadgar
 
 <div class="rwd-media">
