@@ -43,6 +43,10 @@ googleAnalytics = ""
 	github  = "eoscostarica"
 	email   = "bp@eosio.cr"
 
+[[menu.main]]
+	name   = "DevOps"
+	url    = "devops/"
+	weight = 10
 
 [[menu.main]]
 	name   = "EOS Podcasts"
