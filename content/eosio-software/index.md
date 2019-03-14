@@ -35,10 +35,6 @@ Blockchain technology relies on consensus algorithms to reach agreement among no
 
 EOSIO software utilizes the only known decentralized consensus algorithm proven capable of meeting the performance requirements of applications on the blockchain, Delegated Proof of Stake (DPOS). Under this algorithm, those who hold tokens on a blockchain adopting the EOSIO software may select block producers through a continuous approval voting system. Anyone may choose to participate in block production and will be given an opportunity to produce blocks, provided they can persuade token holders to vote for them.
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/M3EFi_POhps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
  - [DPOS Consensus Algorithm - The Missing White Paper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)
  - [BitShares DPOS](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)
 
