@@ -48,6 +48,12 @@ layout: single
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## The Original Bitcoin White Paper by Satoshi Nakamoto ( Audiobook )
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1yYrYCE4i1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## What is a Smart Contract?
 
 <div class="rwd-media">
