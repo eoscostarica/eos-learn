@@ -23,11 +23,11 @@ The EOSIO software introduces a new blockchain architecture designed to enable v
 - Designed for Parallel Execution of Context Free Validation Logic.
 - Designed for Inter Blockchain Communication.
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/3kqkTYqTvDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Delegated Proof of Stake (DPoS)
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKAOwzAwHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 A consensus algorithm is a process in computer science used to achieve agreement on a single data value among distributed processes or systems.
 
@@ -57,5 +57,13 @@ The basic relationship between these components is illustrated in the following 
   <br/>
   <small>source: developers.eos.io/eosio-nodeos/docs</small>
 </p>
+
+## EOSIO permissions
+
+EOSIO permissions make it possible to strengthen account security to the point where lost or stolen keys become nothing more than minor inconveniences. This EOS Weekly episode covers what EOSIO permissions are at the conceptual level, and the trend towards a strong, mesh network of interconnected accounts.
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kTjF0-Edxw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Learn more at https://developers.eos.io/
