@@ -123,3 +123,9 @@ layout: single
 <div class="rwd-media">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TQ-DsEZBuQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Simple Introduction to Shamir's Secret Sharing and Lagrange Interpolation
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kkMps3X_tEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
