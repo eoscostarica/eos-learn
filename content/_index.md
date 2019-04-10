@@ -118,4 +118,8 @@ layout: single
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5XLUZLqSa8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## What is Key Sharding? Shamir’s Secret Sharing Explained
 
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/TQ-DsEZBuQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
