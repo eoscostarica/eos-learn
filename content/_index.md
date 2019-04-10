@@ -112,5 +112,10 @@ layout: single
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FDXPtOqtdE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Data Loss, Data Leak & Shamir's Secret Sharing
+
+<div class="rwd-media">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5XLUZLqSa8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
