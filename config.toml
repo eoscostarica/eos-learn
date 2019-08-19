@@ -1,18 +1,40 @@
-baseURL = "https://learn.eoscostarica.io/"
-languageCode = "en-us"
-title = "EOSIO Learning Resources by EOS Costa Rica"
+DefaultContentLanguage = "en"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 
-[params]
-	# General information
-	author = "eoscostarica"
-	description = "A curated list of EOS learning resources."
-	copyright = "Released under the MIT license"
+[languages]
+  [languages.en]
+  	languageCode = "en-us"
+    baseURL = "https://learn.eoscostarica.io/"
+    languageName = "English"
+    title = "EOSIO Learning Resources by EOS Costa Rica"
+    weight = 1
+    [languages.en.params]
+	    # General information
+		author = "eoscostarica"
+		description = "A curated list of EOS learning resources."
+		copyright = "Released under the MIT license"
 
+
+
+  [languages.es]
+  	languageCode = "es-cr"
+    baseURL = "https://estudie.eoscostarica.io/"
+    languageName = "Español"
+    title = "Recursos para aprender EOSIO en Español por EOS Costa Rica"
+    weight = 2
+    [languages.es.params]
+	    # Información General
+		author = "eoscostarica"
+		description = "Una lista curada de recursos de aprendizaje de EOS."
+		copyright = "Publicado bajo la licencia MIT"
+
+
+
+[params]
 	# Repository
 	provider = "GitHub"
 	repo_url = "https://github.com/eoscostarica/eos-learning-resources"
