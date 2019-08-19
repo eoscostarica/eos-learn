@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
-    <link>https://estudie.eoscostarica.io/</link>
+    <link>https://learn.eoscostarica.io/es/</link>
     <description>Recent content on Recursos para aprender EOSIO en Español por EOS Costa Rica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cr</language>
     <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
     
-	<atom:link href="https://estudie.eoscostarica.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://learn.eoscostarica.io/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exploradores de bloques y monitores de red para redes EOSIO.</title>
-      <link>https://estudie.eoscostarica.io/block-explorers/</link>
+      <link>https://learn.eoscostarica.io/es/block-explorers/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://estudie.eoscostarica.io/block-explorers/</guid>
+      <guid>https://learn.eoscostarica.io/es/block-explorers/</guid>
       <description>Un explorador de bloques es un programa o sitio web accesible a través de un navegador que permite a un usuario buscar y navegar por los bloques de una cadena de bloques, sus contenidos y sus detalles relevantes.
 Bloks.io https://bloks.io/
 EOSX https://www.eosx.io/

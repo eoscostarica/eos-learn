@@ -22,7 +22,7 @@ googleAnalytics = ""
 
   [languages.es]
   	languageCode = "es-cr"
-    baseURL = "https://estudie.eoscostarica.io/"
+    baseURL = "https://learn.eoscostarica.io/es/"
     languageName = "Español"
     title = "Recursos para aprender EOSIO en Español por EOS Costa Rica"
     weight = 2
