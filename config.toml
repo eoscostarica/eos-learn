@@ -8,7 +8,7 @@ googleAnalytics = ""
 [languages]
   [languages.en]
   	languageCode = "en-us"
-    baseURL = "https://learn.eoscostarica.io/"
+    baseURL = "https://learn.eoscostarica.io/en/"
     languageName = "English"
     title = "EOSIO Learning Resources by EOS Costa Rica"
     weight = 1
