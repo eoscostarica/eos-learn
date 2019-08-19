@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://estudie.eoscostarica.io/block-explorers/</loc>
+    <loc>https://learn.eoscostarica.io/es/block-explorers/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://estudie.eoscostarica.io/block-explorers/"
+                href="https://learn.eoscostarica.io/es/block-explorers/"
                 />
   </url>
   
   <url>
-    <loc>https://estudie.eoscostarica.io/</loc>
+    <loc>https://learn.eoscostarica.io/es/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://estudie.eoscostarica.io/"
+                href="https://learn.eoscostarica.io/es/"
                 />
   </url>
   
   <url>
-    <loc>https://estudie.eoscostarica.io/categories/</loc>
+    <loc>https://learn.eoscostarica.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,12 +42,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://estudie.eoscostarica.io/categories/"
+                href="https://learn.eoscostarica.io/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://estudie.eoscostarica.io/tags/</loc>
+    <loc>https://learn.eoscostarica.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,7 +56,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://estudie.eoscostarica.io/tags/"
+                href="https://learn.eoscostarica.io/es/tags/"
                 />
   </url>
   
