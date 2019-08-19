@@ -1,4 +1,5 @@
 const gulp = require('gulp')
+var deploy = require('gulp-gh-pages');
 const gulpLoadPlugins = require('gulp-load-plugins')
 const $ = gulpLoadPlugins()
 
@@ -15,9 +16,13 @@ gulp.task('optimize-images', () => {
     .pipe(gulp.dest('static/img'))
 })
 
-gulp.task('deploy', () => {
-  return gulp.src('./public/**/*')
-    .pipe($.ghPages())
-})
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+  return gulp.src("./public/**/*")
+    .pipe(deploy())
+});
 
 gulp.task('clear-cache', () => $.cache.clearAll())

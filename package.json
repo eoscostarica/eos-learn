@@ -11,8 +11,8 @@
     "lint": "standard",
     "deploy": "hugo -d public/ && gulp deploy"
   },
-  "devDependencies":{
-    "gulp": "^3.9.1",
+  "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-cache": "^0.4.6",
     "gulp-cli": "^1.4.0",
     "gulp-gh-pages": "^0.5.4",
