@@ -43,7 +43,7 @@ googleAnalytics = ""
 	logo = "images/logo.png"
 	favicon = "images/favicon.ico"
 
-	permalink = "#"
+	permalink = "https://learn.eoscostarica.io/"
 
 	# Custom assets
 	custom_css = []
