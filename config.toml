@@ -7,6 +7,7 @@ googleAnalytics = ""
 
 [languages]
   [languages.en]
+		contentDir = "content/English"
   	languageCode = "en-us"
     baseURL = "https://learn.eoscostarica.io/en/"
     languageName = "English"
@@ -21,6 +22,7 @@ googleAnalytics = ""
 
 
   [languages.es]
+		contentDir = "content/Spanish"
   	languageCode = "es-cr"
     baseURL = "https://learn.eoscostarica.io/es/"
     languageName = "Español"
