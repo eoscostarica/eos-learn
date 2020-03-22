@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://learn.eoscostarica.io/block-explorers/</loc>
+    <loc>https://learn.eoscostarica.io/en/block-explorers/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,57 +13,57 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/block-explorers/"
+                href="https://learn.eoscostarica.io/en/block-explorers/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/dapp-development/</loc>
+    <loc>https://learn.eoscostarica.io/en/dapp-development/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/eosio-sister-chains/</loc>
+    <loc>https://learn.eoscostarica.io/en/eosio-sister-chains/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/eos-blockchain/</loc>
+    <loc>https://learn.eoscostarica.io/en/eos-blockchain/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/eosio-software/</loc>
+    <loc>https://learn.eoscostarica.io/en/eosio-software/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/block-producer/</loc>
+    <loc>https://learn.eoscostarica.io/en/block-producer/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/devops/</loc>
+    <loc>https://learn.eoscostarica.io/en/devops/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/eos-podcasts/</loc>
+    <loc>https://learn.eoscostarica.io/en/eos-podcasts/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/smart-contracts/</loc>
+    <loc>https://learn.eoscostarica.io/en/smart-contracts/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/modern-cpp/</loc>
+    <loc>https://learn.eoscostarica.io/en/modern-cpp/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/</loc>
+    <loc>https://learn.eoscostarica.io/en/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -73,12 +73,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/"
+                href="https://learn.eoscostarica.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/categories/</loc>
+    <loc>https://learn.eoscostarica.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -87,12 +87,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/categories/"
+                href="https://learn.eoscostarica.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/tags/</loc>
+    <loc>https://learn.eoscostarica.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -101,7 +101,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/tags/"
+                href="https://learn.eoscostarica.io/en/tags/"
                 />
   </url>
   
