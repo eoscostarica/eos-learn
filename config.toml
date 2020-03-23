@@ -2,6 +2,7 @@ DefaultContentLanguage = "en"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
+defaultContentLanguageInSubdir = false
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 
