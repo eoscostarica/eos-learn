@@ -68,8 +68,6 @@ googleAnalytics = ""
 	github  = "eoscostarica"
 	email   = "bp@eosio.cr"
 
-
-
 ## ENGLISH MENU
 [[languages.en.menu.main]]
 	name   = "Blockchain Basics"
