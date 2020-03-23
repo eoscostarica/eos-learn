@@ -1,10 +1,8 @@
 ---
 date: 2016-03-09T20:08:11+01:00
-title: EOSIO Sister Chains
+title: "Cadenas hermanas de EOS"
 weight: 20
 ---
-
-Sister chains are blockchains that utilize the EOSIO software but that have their own native token used for resource allocation.
 
 Las cadenas hermanas son blockchains que utilizan el software EOSIO pero que tienen su propio token nativo usado para asignación de recursos.
 

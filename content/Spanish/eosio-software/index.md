@@ -1,6 +1,6 @@
 ---
 date: 2016-03-09T20:08:11+01:00
-title: El Blokchain de EOS
+title: "El Blockchain de EOS"
 weight: 20
 ---
 
@@ -30,37 +30,38 @@ El software de EOSIO introduce una nueva arquitectura de blockchain diseñada pa
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKAOwzAwHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-A consensus algorithm is a process in computer science used to achieve agreement on a single data value among distributed processes or systems.
+Un Algoritmo de consenso es un proceso en Ciencias de la Computación usado para lograr acuerdo en un sólo valor de datos entre procesos o sistemas distribuidos.
 
-Blockchain technology relies on consensus algorithms to reach agreement among nodes. A blockchain can be thought of as a decentralized database that is managed by distributed computers on a peer-to-peer (P2P) network. Each peer maintains a copy of the ledger to prevent a single point of failure (SPOF). Updates and validations are reflected in all copies simultaneously.
+La tecnología Blockchain depende de Algoritmos de Consenso para lograr un acuerdo entre los nodos. Un blokchain puede ser pensado como una base de datos descentralizada que es manejada por computadoras distribuidas en una red de punto a punto (P2P). Cada punto mantiene una copia del estado de la red para prevenir un punto único de fallo (en inglés SPOF). Actualizacioes y validaciones son reflejadas en todas las copias simultáneamente.
 
-EOSIO software utilizes the only known decentralized consensus algorithm proven capable of meeting the performance requirements of applications on the blockchain, Delegated Proof of Stake (DPOS). Under this algorithm, those who hold tokens on a blockchain adopting the EOSIO software may select block producers through a continuous approval voting system. Anyone may choose to participate in block production and will be given an opportunity to produce blocks, provided they can persuade token holders to vote for them.
+El software EOSIO utiliza el único conocido Algoritmo de Consenso Descentralizado probado capaz de cumplir los requerimientos de rendimiento de las aplicaciones en el blockchain, **Prueba de Participación Delegada** (Delegated Proof of Stake - DPOS). Bajo este algoritmo, aquellos que mantienen token en el blockchain adoptando el software EOSIO pueden seleccionar los productores de bloques através de un sistema de aprobación continua. Cualquiera que elija participar en la producción de bloques tendrán la oportunidad de producirlos, siempre que puedan persuadir a los titulares de tokens para que voten por ellos.
 
- - [DPOS Consensus Algorithm - The Missing White Paper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)
+ - [DPOS Algoritmo de Consenso](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)
  - [BitShares DPOS](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)
 
-## Main Components
+## Componentes Principales
 
-EOSIO comes with a number of programs. The primary ones that you will use, and the ones that are covered here, are:
+EOSIO viene con varios programas. Los principales que verás, y los que son cubiertos aquí son:
 
-- `nodeos` (node + eos = nodeos) - the core EOSIO node daemon that can be configured with plugins to run a node. Example uses are block production, dedicated API endpoints, and local development.
-- `cleos` (cli + eos = cleos) - command line interface to interact with the blockchain and to manage wallets
-- `keosd` (key + eos = keosd) - component that securely stores EOSIO keys in wallets.
+- `nodeos` (node + eos = nodeos) - el demonio de node del núcleo de EOSIO que puede ser configurado con plugins para correr un nodo. Ejemplos de uso son producción de bloques, API endpoints dedicados y desarrollo local.
+- `cleos` (cli + eos = cleos) - interfaz de línea de comandos para interactuar con el blokchain y para manejar billeteras.
+- `keosd` (key + eos = keosd) - component que guarda de forma segura las llaves de EOSIO en las billeteras.
 
 The basic relationship between these components is illustrated in the following diagram. In the sections that follow, you will build the EOSIO components, and deploy them in a single host, single node test network (testnet) configuration.
 
+La relación básica entre estos componentes es ilustrada en el siguiente diagrama. En las siguientes secciones, usted construirá los componentes de EOSIO y desplegarlos en un único host, una configuración de un único nodo de red de prueba (testnet).
 <p align="center">
 	<img src="/images/eos-blockchain/eos-system-architecture.png" width="100%">
   <br/>
-  <small>source: developers.eos.io/eosio-nodeos/docs</small>
+  <small>fuente: developers.eos.io/eosio-nodeos/docs</small>
 </p>
 
-## EOSIO permissions
+## Permisos de EOSIO
 
-EOSIO permissions make it possible to strengthen account security to the point where lost or stolen keys become nothing more than minor inconveniences. This EOS Weekly episode covers what EOSIO permissions are at the conceptual level, and the trend towards a strong, mesh network of interconnected accounts.
+Los permisos de EOSIO hacen posible fortalecer la seguridad de la cuenta al punto donde la pérdida o robo de las llaves son nada más que pequeñas inconveniencias. Este episodio semanal de EOS cubre qué son los permisos de EOSIO a un nivel conceptual y la tendencia a redes de cuentas interconectadas fuertes.
 
 <div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kTjF0-Edxw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kTjF0-Edxw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Learn more at https://developers.eos.io/
+Aprende más en https://developers.eos.io/

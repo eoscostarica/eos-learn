@@ -1,5 +1,5 @@
 ---
-title: "EOS Podcasts and Video Channels"
+title: "Podcasts de EOS y Video Canales"
 date: 2018-09-13T14:51:37-06:00
 ---
 
