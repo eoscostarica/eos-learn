@@ -1,6 +1,6 @@
 ---
 date: 2016-03-09T20:08:11+01:00
-title: Exploradores de bloques y monitores de red para redes EOSIO.
+title: "Exploradores de bloques y monitores de red para redes EOSIO."
 weight: 20
 ---
 

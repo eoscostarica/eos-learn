@@ -68,56 +68,91 @@ googleAnalytics = ""
 	github  = "eoscostarica"
 	email   = "bp@eosio.cr"
 
-[[menu.main]]
-	name   = "DevOps"
-	url    = "devops/"
-	weight = 10
 
-[[menu.main]]
-	name   = "EOS Podcasts"
-	url    = "eos-podcasts/"
-	weight = 9
 
-[[menu.main]]
-	name   = "Modern C++"
-	url    = "modern-cpp/"
-	weight = 8
-
-[[menu.main]]
-	name   = "EOSIO Sister Chains"
-	url    = "eosio-sister-chains/"
-	weight = 7
-
-[[menu.main]]
-	name   = "DApp Development"
-	url    = "dapp-development/"
-	weight = 6
-
-[[menu.main]]
-	name   = "Block Explorers"
-	url    = "block-explorers/"
-	weight = 5
-
-[[menu.main]]
-	name   = "Block Producers"
-	url    = "block-producer/"
-	weight = 4
-
-[[menu.main]]
-	name   = "EOS Blockchain"
-	url    = "eos-blockchain/"
-	weight = 3
-
-[[menu.main]]
-	name   = "EOSIO Software"
-	url    = "eosio-software/"
-	weight = 2
-
-[[menu.main]]
+## ENGLISH MENU
+[[languages.en.menu.main]]
 	name   = "Blockchain Basics"
 	url    = "/"
+	weight = 0
+[[languages.en.menu.main]]
+	name   = "EOSIO Software"
+	url    = "eosio-software/"
 	weight = 1
+[[languages.en.menu.main]]
+	name   = "EOS Blockchain"
+	url    = "eos-blockchain/"
+	weight = 2
+[[languages.en.menu.main]]
+	name   = "Block Producers"
+	url    = "block-producer/"
+	weight = 3
+[[languages.en.menu.main]]
+	name   = "Block Explorers"
+	url    = "block-explorers/"
+	weight = 4
+[[languages.en.menu.main]]
+	name   = "DApp Development"
+	url    = "dapp-development/"
+	weight = 5
+[[languages.en.menu.main]]
+	name   = "EOSIO Sister Chains"
+	url    = "eosio-sister-chains/"
+	weight = 6
+[[languages.en.menu.main]]
+	name   = "DevOps"
+	url    = "devops/"
+	weight = 7
+[[languages.en.menu.main]]
+	name   = "EOS Podcasts"
+	url    = "eos-podcasts/"
+	weight = 8
+[[languages.en.menu.main]]
+	name   = "Modern C++"
+	url    = "modern-cpp/"
+	weight = 9
 
+#SPANISH MENU
+[[languages.es.menu.main]]
+	name   = "Conceptos básicos de Blockchain"
+	url    = "/"
+	weight = 0
+[[languages.es.menu.main]]
+	name   = "Software EOSIO"
+	url    = "eosio-software/"
+	weight = 1
+[[languages.es.menu.main]]
+	name   = "Blockchain de EOS"
+	url    = "eos-blockchain/"
+	weight = 2
+[[languages.es.menu.main]]
+	name   = "Productores de Bloques"
+	url    = "block-producer/"
+	weight = 3
+[[languages.es.menu.main]]
+	name   = "Exploradores de Bloques"
+	url    = "block-explorers/"
+	weight = 4
+[[languages.es.menu.main]]
+	name   = "Desarrollo de DApps"
+	url    = "dapp-development/"
+	weight = 5
+[[languages.es.menu.main]]
+	name   = "Cadenas hermanas de EOSIO"
+	url    = "eosio-sister-chains/"
+	weight = 6
+[[languages.es.menu.main]]
+	name   = "DevOps"
+	url    = "devops/"
+	weight = 7
+[[languages.es.menu.main]]
+	name   = "Podcasts de EOS"
+	url    = "eos-podcasts/"
+	weight = 8
+[[languages.es.menu.main]]
+	name   = "C++ moderno"
+	url    = "modern-cpp/"
+	weight = 9
 
 [blackfriday]
 	smartypants	= true
