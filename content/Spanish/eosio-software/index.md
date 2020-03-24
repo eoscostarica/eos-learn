@@ -28,6 +28,10 @@ El software de EOSIO introduce una nueva arquitectura de blockchain diseñada pa
 
 {{<youtube OVKAOwzAwHI>}}
 
+<div class="rwd-media">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKAOwzAwHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Un Algoritmo de consenso es un proceso en Ciencias de la Computación usado para lograr acuerdo en un sólo valor de datos entre procesos o sistemas distribuidos.
 
 La tecnología Blockchain depende de Algoritmos de Consenso para lograr un acuerdo entre los nodos. Un blokchain puede ser pensado como una base de datos descentralizada que es manejada por computadoras distribuidas en una red de punto a punto (P2P). Cada punto mantiene una copia del estado de la red para prevenir un punto único de fallo (en inglés SPOF). Actualizacioes y validaciones son reflejadas en todas las copias simultáneamente.
