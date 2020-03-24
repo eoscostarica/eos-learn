@@ -2,7 +2,7 @@ theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 
@@ -23,7 +23,7 @@ googleAnalytics = ""
 
 
   [languages.es]
-		contentDir = "content/en"
+		contentDir = "content/es"
   	languageCode = "es-cr"
     baseURL = "https://learn.eoscostarica.io/es/"
     languageName = "Español"
