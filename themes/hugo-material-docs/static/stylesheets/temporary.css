@@ -10,7 +10,6 @@ blockquote {
   border-left: 5px solid #eee;
 }
 
-
 .language-list {
   list-style-type: none;
   width: 144px;
@@ -21,4 +20,76 @@ blockquote {
 }
 .language-list > li {
   margin: 5px;
+}
+
+@media (min-width: 960px) {
+  .main {
+    margin-left: 0px !important;
+    margin-right: 15px !important;
+  }
+
+  .backdrop-paper:after {
+    width: 100% !important;
+    margin-left: 300px !important;
+  }
+
+  .article {
+    width: 70%;
+    margin-left: 30% !important;
+  }
+}
+
+@media (min-width: 1000px) {
+  .main {
+    margin-left: 0px !important;
+    margin-right: 5px !important;
+  }
+
+  .backdrop-paper:after {
+    width: 100% !important;
+    margin-left: 250px !important;
+  }
+
+  .article {
+    width: 75%;
+    margin-left: 25% !important;
+  }
+}
+@media (min-width: 1200px) {
+  .main {
+    margin-left: 0px !important;
+    margin-right: 5px !important;
+  }
+
+  .backdrop-paper:after {
+    width: 100% !important;
+    margin-left: 250px !important;
+  }
+
+  .article {
+    width: 80%;
+    margin-left: 23% !important;
+  }
+}
+
+@media (min-width: 1400px) {
+  .main {
+    margin-left: 0px !important;
+    width: 100% !important;
+    margin-right: 5px !important;
+  }
+
+  .backdrop-paper:after {
+    width: 100% !important;
+    margin-left: 150px !important;
+  }
+
+  .article {
+    width: 80% !important;
+    margin-left: 25% !important;
+  }
+
+  .wrapper {
+    width: 78vw !important;
+  }
 }
