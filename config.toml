@@ -1,7 +1,7 @@
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
@@ -9,12 +9,12 @@ publishDir ="docs"
 
 [languages]
   [languages.en]
-		contentDir = "content/English"
+		contentDir = "content/en"
   	languageCode = "en-us"
     baseURL = "https://learn.eoscostarica.io/en/"
     languageName = "English"
     title = "EOSIO Learning Resources by EOS Costa Rica"
-    weight = 1
+    weight = 2
     [languages.en.params]
 	    # General information
 		author = "eoscostarica"
@@ -24,12 +24,12 @@ publishDir ="docs"
 
 
   [languages.es]
-		contentDir = "content/Spanish"
+		contentDir = "content/en"
   	languageCode = "es-cr"
     baseURL = "https://learn.eoscostarica.io/es/"
     languageName = "Español"
     title = "Recursos para aprender EOSIO en Español por EOS Costa Rica"
-    weight = 2
+    weight = 1
     [languages.es.params]
 	    # Información General
 		author = "eoscostarica"
