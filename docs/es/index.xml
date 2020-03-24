@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
+    <link>https://learn.eoscostarica.io/es/</link>
+    <description>Recent content on Recursos para aprender EOSIO en Español por EOS Costa Rica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cr</language>
+    <lastBuildDate>Thu, 13 Sep 2018 14:51:37 -0600</lastBuildDate>
+    
+	<atom:link href="https://learn.eoscostarica.io/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cadenas hermanas de EOS</title>
+      <link>https://learn.eoscostarica.io/es/eosio-sister-chains/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/eosio-sister-chains/</guid>
+      <description>Las cadenas hermanas son blockchains que utilizan el software EOSIO pero que tienen su propio token nativo usado para asignación de recursos.
+WORBLI   TELOS   EOS FORCE   WAX   </description>
+    </item>
+    
+    <item>
+      <title>Desarrollo de Aplicaciones Descentralizadas</title>
+      <link>https://learn.eoscostarica.io/es/dapp-development/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/dapp-development/</guid>
+      <description>Construyendo Aplicaciones Descentralizadas   Puedes ver más en este canal: https://www.youtube.com/user/jackodwhacko/videos
+  Puedes ver más en este canal: https://www.youtube.com/user/grandmoren1/videos
+  Puedes ver más en este canal: https://www.youtube.com/user/apexmaxable/videos
+  Empezando https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
+Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjuntot de valores de entrada o lo que denominamos en ingles &amp;ldquo;inputs&amp;rdquo;. Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego.</description>
+    </item>
+    
+    <item>
+      <title>El Blockchain de EOS</title>
+      <link>https://learn.eoscostarica.io/es/eos-blockchain/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/eos-blockchain/</guid>
+      <description>Introducción a EOS     Porqué EOS es construido para Aplicaciones Descentralizadas   Economía Interna   EOS explicado por Dan Larimer   Asignación de recursos de EOS   EOS vs ETH     Almacenamiento de EOS EOS.IO Storage White Paper
+  </description>
+    </item>
+    
+    <item>
+      <title>El Blockchain de EOS</title>
+      <link>https://learn.eoscostarica.io/es/eosio-software/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/eosio-software/</guid>
+      <description>EOSIO es un protocolo de software de código abierto libre que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
+El software de EOSIO introduce una nueva arquitectura de blockchain diseñada para permitir escalabilidad horizontal y vertical de aplicaciones descentralizadas. Esto es logrado creando una construcción similar a un sistema operativo en el cual las aplicaciones pueden ser construidas. El software provee cuentas, autenticación, bases de datos, comunicación asíncrona y la programación de aplicaciones en muchos núcleos CPU o clústeres.</description>
+    </item>
+    
+    <item>
+      <title>Exploradores de bloques y monitores de red para redes EOSIO.</title>
+      <link>https://learn.eoscostarica.io/es/block-explorers/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/block-explorers/</guid>
+      <description>Un explorador de bloques es un programa o sitio web accesible a través de un navegador que permite a un usuario buscar y navegar por los bloques de una cadena de bloques, sus contenidos y sus detalles relevantes.
+Bloks.io https://bloks.io/
+EOSX https://www.eosx.io/
+EOSQ https://eosq.app/
+EOS Flare https://eosflare.io/
+EOS Hub https://eoshub.io/
+EOS Network Monitor https://eosnetworkmonitor.io/
+EOS Tracker https://eostracker.io/
+EOS Spark https://eospark.com/
+Vote Tracker https://votetracker.io/
+EOSDAC Explorer https://explorer.eosdac.io
+EOS Web https://eosweb.net/
+Cypherblock https://www.</description>
+    </item>
+    
+    <item>
+      <title>Productor de Bloques</title>
+      <link>https://learn.eoscostarica.io/es/block-producer/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/block-producer/</guid>
+      <description>¿Qué es un productor de bloques? Los productores de bloques proveen la infraestructura requerida para procesar las transacciones. Algunos productores de bloques operan con sus propios equipos físicos, mientras otros proveen servicios utilizando servicios en la nube de terceros.
+Explicando el rol de un productor de bloques de EOS.   </description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; Moderno</title>
+      <link>https://learn.eoscostarica.io/es/modern-cpp/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/modern-cpp/</guid>
+      <description>Bienvenido a C++   La esencia de C++   C++ en un video   Aprendiendo y enseñando C++   Elementos esenciales del estilo de C++ moderno   Algoritmos STL en menos de una hora   Diez pautas fundamentales   C++ 17 práctico   Es complicado   &amp;ldquo;The Cherno Project&amp;rdquo; https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
+Mejor código por Sean Parent https://www.youtube.com/watch?v=QGcVXgEVMJg&amp;amp;list=PLiWEEi8ezRkXoi4nJcPzyPlbXhnSA2VvB
+Videos CPPCon https://www.youtube.com/user/CppCon/videos
+Jason Turner https://www.</description>
+    </item>
+    
+    <item>
+      <title>Contratos Inteligenes de EOS</title>
+      <link>https://learn.eoscostarica.io/es/smart-contracts/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/smart-contracts/</guid>
+      <description>Un contrato es un acuerdo que rige los resultados de las acciones una vez dado un conjunto de datos de entrada o lo que se le denomina &amp;ldquo;inputs&amp;rdquo;. Un contrato pueden desde los tipo legal (ejemplo transacciones financieras) hasta algo más simple como las reglas de un juego. Las acciones típicas pueden ser transacciones de fondos (en el caso de un contrato financiero) o movimientos de juegos (en el caso de un contrato de juego).</description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://learn.eoscostarica.io/es/devops/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/devops/</guid>
+      <description>En EOS Costa Rica nosotros seguimos los principios de DevOps para construir y desplegar software.
+La automatización está en el top de nuestras prioridades, todo desde organización de directorios hasta optimización de código, pruebas, despliegue y entrega.
+Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día .
+Entendiendo DevOps   Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
+    </item>
+    
+    <item>
+      <title>Podcasts de EOS y Video Canales</title>
+      <link>https://learn.eoscostarica.io/es/eos-podcasts/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/es/eos-podcasts/</guid>
+      <description>EOSIO https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg
+Everything EOS https://www.youtube.com/channel/UCJGfaRx0EzL0u_Wj_nz_CiQ
+The EOS Podcast https://www.youtube.com/channel/UCMbWeAfeeyGO5NlYO-7_I5w
+Dallas Rushing https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg
+Exploring EOS https://exploringeos.com/
+The Awakenment https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag
+Investing with a Difference https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w
+EOS Radio https://www.youtube.com/channel/UCSkVL53-3TAmWAocZDdGiIw
+EOS Voter https://open.spotify.com/show/7aa00qzbKFjX1PTugmn4vn
+Cypherglass https://www.youtube.com/channel/UCnXofUeO5w1dO9JGWWDdqPQ
+SVK Crypto https://www.youtube.com/channel/UCuyr4l0-6Gkw7kW80lUwHLQ
+EOS Canada https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ
+EOS Dublin https://eosdublin.podbean.com/
+EOS Detroit https://www.youtube.com/channel/UCnbdh6f2U54_18YEe89xpnA
+EOS Weekly https://www.youtube.com/channel/UCR9iyxumPn7n14nbBocfCMQ
+EOS Dapp Stars https://www.youtube.com/channel/UCgXggdgpan84WJmR5gLSwhw
+Thomas Cox https://www.youtube.com/channel/UC1YXNL469qIagGyTzZM-uRw</description>
+    </item>
+    
+  </channel>
+</rss>
