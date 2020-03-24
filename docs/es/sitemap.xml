@@ -3,195 +3,195 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/eosio-sister-chains/</loc>
+    <loc>http://localhost:1313/es/eosio-sister-chains/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/eosio-sister-chains/"
+                href="http://localhost:1314/en/eosio-sister-chains/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/eosio-sister-chains/"
+                href="http://localhost:1313/es/eosio-sister-chains/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/dapp-development/</loc>
+    <loc>http://localhost:1313/es/dapp-development/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/dapp-development/"
+                href="http://localhost:1314/en/dapp-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/dapp-development/"
+                href="http://localhost:1313/es/dapp-development/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/eos-blockchain/</loc>
+    <loc>http://localhost:1313/es/eos-blockchain/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/eos-blockchain/"
+                href="http://localhost:1314/en/eos-blockchain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/eos-blockchain/"
+                href="http://localhost:1313/es/eos-blockchain/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/eosio-software/</loc>
+    <loc>http://localhost:1313/es/eosio-software/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/eosio-software/"
+                href="http://localhost:1314/en/eosio-software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/eosio-software/"
+                href="http://localhost:1313/es/eosio-software/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/block-explorers/</loc>
+    <loc>http://localhost:1313/es/block-explorers/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/block-explorers/"
+                href="http://localhost:1314/en/block-explorers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/block-explorers/"
+                href="http://localhost:1313/es/block-explorers/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/block-producer/</loc>
+    <loc>http://localhost:1313/es/block-producer/</loc>
     <lastmod>2016-03-09T20:08:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/block-producer/"
+                href="http://localhost:1314/en/block-producer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/block-producer/"
+                href="http://localhost:1313/es/block-producer/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/modern-cpp/</loc>
+    <loc>http://localhost:1313/es/modern-cpp/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/modern-cpp/"
+                href="http://localhost:1314/en/modern-cpp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/modern-cpp/"
+                href="http://localhost:1313/es/modern-cpp/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/smart-contracts/</loc>
+    <loc>http://localhost:1313/es/smart-contracts/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/smart-contracts/"
+                href="http://localhost:1314/en/smart-contracts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/smart-contracts/"
+                href="http://localhost:1313/es/smart-contracts/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/devops/</loc>
+    <loc>http://localhost:1313/es/devops/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/devops/"
+                href="http://localhost:1314/en/devops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/devops/"
+                href="http://localhost:1313/es/devops/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/eos-podcasts/</loc>
+    <loc>http://localhost:1313/es/eos-podcasts/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/eos-podcasts/"
+                href="http://localhost:1314/en/eos-podcasts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/eos-podcasts/"
+                href="http://localhost:1313/es/eos-podcasts/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <lastmod>2018-09-13T14:51:37-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/"
+                href="http://localhost:1314/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/"
+                href="http://localhost:1313/es/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/categories/</loc>
+    <loc>http://localhost:1313/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/categories/"
+                href="http://localhost:1314/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://learn.eoscostarica.io/es/tags/</loc>
+    <loc>http://localhost:1313/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://learn.eoscostarica.io/en/tags/"
+                href="http://localhost:1314/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://learn.eoscostarica.io/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
   </url>
   
