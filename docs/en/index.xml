@@ -53,8 +53,8 @@ Design Framework A contract is an agreement governing outcomes for actions, give
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
       <guid>https://learn.eoscostarica.io/en/eosio-sister-chains/</guid>
-      <description>Sister chains are blockchains that utilize the EOSIO software but that have their own native token used for resource allocation.
-WORBLI TELOS EOS FORCE WAX </description>
+      <description>Sister chains are blockchains that utilize the EOSIO software but that have their native token used for resource allocation.
+WORBLI   TELOS   EOS FORCE   WAX   </description>
     </item>
     
     <item>
@@ -63,7 +63,8 @@ WORBLI TELOS EOS FORCE WAX </description>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
       <guid>https://learn.eoscostarica.io/en/eos-blockchain/</guid>
-      <description>Introduction to EOS Why EOS is Built for dApps Internal Economics EOS Explained by Dan Larimer EOS Resource Allocation EOS vs ETH EOS Storage EOS.IO Storage White Paper</description>
+      <description>Introduction to EOS     Why EOS is Built for dApps   Internal Economics   EOS Explained by Dan Larimer   EOS Resource Allocation   EOS vs ETH     EOS Storage EOS.IO Storage White Paper
+  </description>
     </item>
     
     <item>
@@ -83,7 +84,7 @@ The EOSIO software introduces a new blockchain architecture designed to enable v
       
       <guid>https://learn.eoscostarica.io/en/block-producer/</guid>
       <description>What is a Block Producer? Block producers provide the infrastructure required to run the underlying network layer to process all transactions. Some block producers run their own &amp;ldquo;Bare Metal Servers&amp;rdquo; meaning they own and operate their physical equipment. Other Block producers provide the service by using third party cloud services.
-Explaining the Role of an EOS Block Producer </description>
+Explaining the Role of an EOS Block Producer   </description>
     </item>
     
     <item>
@@ -95,7 +96,7 @@ Explaining the Role of an EOS Block Producer </description>
       <description>At EOS Costa Rica we follow the DevOps principles to build and deploy software.
 Automation is at the top of our priorities, everything from scaffolding to code optimization, testing, deploy and delivery.
 Continuous integration allows us to detect problems early reducing costs and help us deliver robust software more rapidly.
-Continuous communication and frequent one-on-one calls as well as pair programming are essential part of our day to day work.</description>
+Continuous communication and frequent one-on-one calls, as well as pair programming, are an essential part of our day to day work.</description>
     </item>
     
     <item>

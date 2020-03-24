@@ -18,7 +18,7 @@
       
       <guid>https://learn.eoscostarica.io/es/eosio-sister-chains/</guid>
       <description>Las cadenas hermanas son blockchains que utilizan el software EOSIO pero que tienen su propio token nativo usado para asignación de recursos.
-WORBLI TELOS EOS FORCE WAX </description>
+WORBLI   TELOS   EOS FORCE   WAX   </description>
     </item>
     
     <item>
@@ -27,10 +27,10 @@ WORBLI TELOS EOS FORCE WAX </description>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/dapp-development/</guid>
-      <description>Construyendo Aplicaciones Descentralizadas Puedes ver más en este canal: https://www.youtube.com/user/jackodwhacko/videos
-Puedes ver más en este canal: https://www.youtube.com/user/grandmoren1/videos
-Puedes ver más en este canal: https://www.youtube.com/user/apexmaxable/videos
-Empezando https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
+      <description>Construyendo Aplicaciones Descentralizadas   Puedes ver más en este canal: https://www.youtube.com/user/jackodwhacko/videos
+  Puedes ver más en este canal: https://www.youtube.com/user/grandmoren1/videos
+  Puedes ver más en este canal: https://www.youtube.com/user/apexmaxable/videos
+  Empezando https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
 Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjuntot de valores de entrada o lo que denominamos en ingles &amp;ldquo;inputs&amp;rdquo;. Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego.</description>
     </item>
     
@@ -40,7 +40,8 @@ Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas accion
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/eos-blockchain/</guid>
-      <description>Introducción a EOS Porqué EOS es construido para Aplicaciones Descentralizadas Economía Interna EOS explicado por Dan Larimer Asignación de recursos de EOS EOS vs ETH Almacenamiento de EOS EOS.IO Storage White Paper</description>
+      <description>Introducción a EOS     Porqué EOS es construido para Aplicaciones Descentralizadas   Economía Interna   EOS explicado por Dan Larimer   Asignación de recursos de EOS   EOS vs ETH     Almacenamiento de EOS EOS.IO Storage White Paper
+  </description>
     </item>
     
     <item>
@@ -81,7 +82,7 @@ Cypherblock https://www.</description>
       
       <guid>https://learn.eoscostarica.io/es/block-producer/</guid>
       <description>¿Qué es un productor de bloques? Los productores de bloques proveen la infraestructura requerida para procesar las transacciones. Algunos productores de bloques operan con sus propios equipos físicos, mientras otros proveen servicios utilizando servicios en la nube de terceros.
-Explicando el rol de un productor de bloques de EOS. </description>
+Explicando el rol de un productor de bloques de EOS.   </description>
     </item>
     
     <item>
@@ -90,14 +91,10 @@ Explicando el rol de un productor de bloques de EOS. </description>
       <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/modern-cpp/</guid>
-      <description>Bienvenido a C++ La esencia de C++ C++ en un video Aprendiendo y enseñando C++ Elementos esenciales del estilo de C++ moderno Algoritmos STL en menos de una hora Diez pautas fundamentales C++ 17 práctico Es complicado &amp;ldquo;The Cherno Project&amp;rdquo; https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
+      <description>Bienvenido a C++   La esencia de C++   C++ en un video   Aprendiendo y enseñando C++   Elementos esenciales del estilo de C++ moderno   Algoritmos STL en menos de una hora   Diez pautas fundamentales   C++ 17 práctico   Es complicado   &amp;ldquo;The Cherno Project&amp;rdquo; https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
 Mejor código por Sean Parent https://www.youtube.com/watch?v=QGcVXgEVMJg&amp;amp;list=PLiWEEi8ezRkXoi4nJcPzyPlbXhnSA2VvB
 Videos CPPCon https://www.youtube.com/user/CppCon/videos
-Jason Turner https://www.youtube.com/user/lefticus1
-Videos BoostCon https://www.youtube.com/user/BoostCon
-Las pautas fundamentales de C++ https://github.com/eoscostarica/CppCoreGuidelines
-Increíble C++ moderno https://github.com/eoscostarica/awesome-modern-cpp
-Características modernas de C++ https://github.</description>
+Jason Turner https://www.</description>
     </item>
     
     <item>
@@ -118,7 +115,7 @@ Características modernas de C++ https://github.</description>
       <description>En EOS Costa Rica nosotros seguimos los principios de DevOps para construir y desplegar software.
 La automatización está en el top de nuestras prioridades, todo desde organización de directorios hasta optimización de código, pruebas, despliegue y entrega.
 Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día .
-Entendiendo DevOps Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
+Entendiendo DevOps   Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
     </item>
     
     <item>

@@ -26,9 +26,13 @@ El software de EOSIO introduce una nueva arquitectura de blockchain diseñada pa
 
 ## Delegated Proof of Stake (DPoS)
 
+<<<<<<< HEAD
+{{<youtube OVKAOwzAwHI>}}
+=======
 <div class="rwd-media">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKAOwzAwHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+>>>>>>> ce5f16c2f660f391ceb76f7713921669c8ae75be
 
 Un Algoritmo de consenso es un proceso en Ciencias de la Computación usado para lograr acuerdo en un sólo valor de datos entre procesos o sistemas distribuidos.
 
@@ -50,7 +54,7 @@ EOSIO viene con varios programas. Los principales que verás, y los que son cubi
 The basic relationship between these components is illustrated in the following diagram. In the sections that follow, you will build the EOSIO components, and deploy them in a single host, single node test network (testnet) configuration.
 
 La relación básica entre estos componentes es ilustrada en el siguiente diagrama. En las siguientes secciones, usted construirá los componentes de EOSIO y desplegarlos en un único host, una configuración de un único nodo de red de prueba (testnet).
-<p align="center">
+<p style="align: center">
 	<img src="/images/eos-blockchain/eos-system-architecture.png" width="100%">
   <br/>
   <small>fuente: developers.eos.io/eosio-nodeos/docs</small>
@@ -60,8 +64,5 @@ La relación básica entre estos componentes es ilustrada en el siguiente diagra
 
 Los permisos de EOSIO hacen posible fortalecer la seguridad de la cuenta al punto donde la pérdida o robo de las llaves son nada más que pequeñas inconveniencias. Este episodio semanal de EOS cubre qué son los permisos de EOSIO a un nivel conceptual y la tendencia a redes de cuentas interconectadas fuertes.
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kTjF0-Edxw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{<youtube kTjF0-Edxw8>}}
 Aprende más en https://developers.eos.io/
