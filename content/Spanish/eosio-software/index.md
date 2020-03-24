@@ -26,7 +26,13 @@ El software de EOSIO introduce una nueva arquitectura de blockchain diseñada pa
 
 ## Delegated Proof of Stake (DPoS)
 
+<<<<<<< HEAD
 {{<youtube OVKAOwzAwHI>}}
+=======
+<div class="rwd-media">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKAOwzAwHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+>>>>>>> ce5f16c2f660f391ceb76f7713921669c8ae75be
 
 Un Algoritmo de consenso es un proceso en Ciencias de la Computación usado para lograr acuerdo en un sólo valor de datos entre procesos o sistemas distribuidos.
 

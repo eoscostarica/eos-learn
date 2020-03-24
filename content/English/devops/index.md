@@ -9,7 +9,7 @@ Automation is at the top of our priorities, everything from scaffolding to code 
 
 Continuous integration allows us to detect problems early reducing costs and help us deliver robust software more rapidly.
 
-Continuous communication and frequent one-on-one calls, as well as pair programming, are an essential part of our day to day work.
+Continuous communication and frequent one-on-one calls as well as pair programming are essential part of our day to day work.
 
 # Understanding DevOps
 
@@ -43,7 +43,6 @@ https://www.youtube.com/embed/EnJ7qX9fkcU&list=PL7bmigfV0EqQt5_pBPQ8tsZjI1w68-e0
 # Kubernetes vs. Docker: It's Not an Either/Or Question
 
 {{<youtube 2vMEQ5zs1ko>}}
-
 # Introduction to Terraform ( Infrastructure as Code )
 
 {{<youtube cpxKbf51ccU>}}
