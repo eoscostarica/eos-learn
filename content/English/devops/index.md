@@ -9,64 +9,45 @@ Automation is at the top of our priorities, everything from scaffolding to code 
 
 Continuous integration allows us to detect problems early reducing costs and help us deliver robust software more rapidly.
 
-Continuous communication and frequent one-on-one calls as well as pair programming are essential part of our day to day work.
+Continuous communication and frequent one-on-one calls, as well as pair programming, are an essential part of our day to day work.
 
 # Understanding DevOps
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EIvOZA1HgHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube EIvOZA1HgHU>}}
 
 To accomplish these goals we leverage a set of technologies explained in the following videos:
 
 # Introduction to Infrastructure as Code ( IAC )
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/53X-HAw7BbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 53X-HAw7BbA>}}
 
 # What is a Container?
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EnJ7qX9fkcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube EnJ7qX9fkcU>}}
 
 # Containers 101
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VqLcWftIaQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube VqLcWftIaQI>}}
 
 Watch the full intro to containers playlist here   
 https://www.youtube.com/embed/EnJ7qX9fkcU&list=PL7bmigfV0EqQt5_pBPQ8tsZjI1w68-e0H
 
 # What is Docker?
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PfTKwblbkpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube PfTKwblbkpE>}}
 
 # Kubernetes in 5 mins
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PH-2FfFD2PU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube PH-2FfFD2PU>}}
 
 # Kubernetes vs. Docker: It's Not an Either/Or Question
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2vMEQ5zs1ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 2vMEQ5zs1ko>}}
 
 # Introduction to Terraform ( Infrastructure as Code )
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cpxKbf51ccU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube cpxKbf51ccU>}}
 
 # Introduction to HashiCorp Terraform with Armon Dadgar
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/h970ZBgKINg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{<youtube h970ZBgKINg>}}

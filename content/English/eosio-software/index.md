@@ -18,29 +18,27 @@ The EOSIO software introduces a new blockchain architecture designed to enable v
 - Designed for Sparse Header Light Client Validation.
 - Scheduled Recurring Transactions.
 - Time Delay Security.
-- Hierarchical Role Based Permissions.
+- Hierarchical Role-Based Permissions.
 - Support for Biometric Hardware Secured Keys (e.g. Apple Secure Enclave).
 - Designed for Parallel Execution of Context Free Validation Logic.
 - Designed for Inter Blockchain Communication.
 
 ## Delegated Proof of Stake (DPoS)
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKAOwzAwHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube OVKAOwzAwHI>}}
 
 A consensus algorithm is a process in computer science used to achieve agreement on a single data value among distributed processes or systems.
 
-Blockchain technology relies on consensus algorithms to reach agreement among nodes. A blockchain can be thought of as a decentralized database that is managed by distributed computers on a peer-to-peer (P2P) network. Each peer maintains a copy of the ledger to prevent a single point of failure (SPOF). Updates and validations are reflected in all copies simultaneously.
+Blockchain technology relies on consensus algorithms to reach an agreement among nodes. A blockchain can be thought of as a decentralized database that is managed by distributed computers on a peer-to-peer (P2P) network. Each peer maintains a copy of the ledger to prevent a single point of failure (SPOF). Updates and validations are reflected in all copies simultaneously.
 
-EOSIO software utilizes the only known decentralized consensus algorithm proven capable of meeting the performance requirements of applications on the blockchain, Delegated Proof of Stake (DPOS). Under this algorithm, those who hold tokens on a blockchain adopting the EOSIO software may select block producers through a continuous approval voting system. Anyone may choose to participate in block production and will be given an opportunity to produce blocks, provided they can persuade token holders to vote for them.
+EOSIO software utilizes the only known decentralized consensus algorithm proven capable of meeting the performance requirements of applications on the blockchain, Delegated Proof of Stake (DPOS). Under this algorithm, those who hold tokens on a blockchain adopting the EOSIO software may select block producers through a continuous approval voting system. Anyone may choose to participate in block production and will be allowed to produce blocks, provided they can persuade token holders to vote for them.
 
  - [DPOS Consensus Algorithm - The Missing White Paper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)
  - [BitShares DPOS](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)
 
 ## Main Components
 
-EOSIO comes with a number of programs. The primary ones that you will use, and the ones that are covered here, are:
+EOSIO comes with several programs. The primary ones that you will use, and the ones that are covered here, are:
 
 - `nodeos` (node + eos = nodeos) - the core EOSIO node daemon that can be configured with plugins to run a node. Example uses are block production, dedicated API endpoints, and local development.
 - `cleos` (cli + eos = cleos) - command line interface to interact with the blockchain and to manage wallets
@@ -58,8 +56,6 @@ The basic relationship between these components is illustrated in the following 
 
 EOSIO permissions make it possible to strengthen account security to the point where lost or stolen keys become nothing more than minor inconveniences. This EOS Weekly episode covers what EOSIO permissions are at the conceptual level, and the trend towards a strong, mesh network of interconnected accounts.
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kTjF0-Edxw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube kTjF0-Edxw8>}}
 
 Learn more at https://developers.eos.io/

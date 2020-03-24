@@ -6,27 +6,19 @@ weight: 20
 
 ## Construyendo Aplicaciones Descentralizadas
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DqbkxfUX5Kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube DqbkxfUX5Kg>}}
 
 Puedes ver más en este canal: https://www.youtube.com/user/jackodwhacko/videos
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EbWDHrm2ETY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube EbWDHrm2ETY>}}
 
 Puedes ver más en este canal: https://www.youtube.com/user/grandmoren1/videos
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/J0SYv-GC3R0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube J0SYv-GC3R0>}}
 
 Puedes ver más en este canal: https://www.youtube.com/user/apexmaxable/videos
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4OmQ7Ow9baI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 4OmQ7Ow9baI>}}
 
 ## Empezando
 
@@ -65,9 +57,7 @@ https://github.com/eoscostarica/eos-contracts
 
 ## Jungle Testnet
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s3EM3Hw1S8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube s3EM3Hw1S8I>}}
 
 More at https://jungletestnet.io
 
@@ -102,11 +92,7 @@ https://developers.eos.io/
 
 ## IPFS Almacenamiento Descentralizado - IPFS
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5Uj6uR3fp-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 5Uj6uR3fp-U>}}
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HUVmypx9HGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube HUVmypx9HGI>}}
 

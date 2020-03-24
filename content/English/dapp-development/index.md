@@ -6,27 +6,20 @@ weight: 20
 
 ## Building Decentralized Apps
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/DqbkxfUX5Kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube DqbkxfUX5Kg>}}
 
 More on Jackson Kelley's channel https://www.youtube.com/user/jackodwhacko/videos
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EbWDHrm2ETY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube EbWDHrm2ETY>}}
 
 More on NSJames's channel https://www.youtube.com/user/grandmoren1/videos
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/J0SYv-GC3R0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube J0SYv-GC3R0>}}
 
 More on Max G's channel https://www.youtube.com/user/apexmaxable/videos
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4OmQ7Ow9baI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 4OmQ7Ow9baI>}}
+
 
 ## Getting Started 
 
@@ -53,20 +46,17 @@ Define the actions, or state changes, that must exist in your smart contract
 ![alt text](/images/contracts/actions.png "Actions")
 
 ### Pre and Post-Conditions
-Define the actions, or state changes, that must exist in your smart contract
+Define the actions or state changes, that must exist in your smart contract
 ![alt text](/images/contracts/prepostconditions.png "Pre- and Post-Conditions")
 
 ## Open Source Smart Contracts 
 
-EOS Costa Rica maintains a list of open source EOS smart contracts you can use as reference in the following repo:
+EOS Costa Rica maintains a list of open-source EOS smart contracts you can use as reference in the following repo:
 
 https://github.com/eoscostarica/eos-contracts
 
 ## Jungle Testnet
-
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/s3EM3Hw1S8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube s3EM3Hw1S8I>}}
 
 More at https://jungletestnet.io
 
@@ -76,7 +66,7 @@ https://www.cryptokylin.io/
 
 ## Development Environment
 
-EOS Local provides a really quick way to setup an EOS local network with IPFS using docker.
+EOS Local provides a really quick way to set up an EOS local network with IPFS using docker.
 
 https://github.com/eoscostarica/eos-local
 
@@ -99,12 +89,6 @@ https://github.com/eoscostarica/eos-dapp-boilerplate
 https://developers.eos.io/
 
 ## Decentralized Storage - IPFS
+{{<youtube 5Uj6uR3fp-U>}}
 
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5Uj6uR3fp-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="rwd-media">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HUVmypx9HGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{<youtube HUVmypx9HGI>}}

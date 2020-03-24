@@ -10,60 +10,41 @@ Comunicación continua y frecuentes llamadas de uno en uno así como programaci�
 
 # Entendiendo DevOps
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EIvOZA1HgHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube EIvOZA1HgHU>}}
 
 Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:
 
 # Introducción a la infraestructura como Código (en inglés IAC)
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/53X-HAw7BbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 53X-HAw7BbA>}}
 
 # ¿Qué es un contenedor?
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EnJ7qX9fkcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube EnJ7qX9fkcU>}}
 
 # Contenedores 101
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VqLcWftIaQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube VqLcWftIaQI>}}
 
 Mira la completa introducción a la lista de reproducción de los contenedores aquí:
 https://www.youtube.com/embed/EnJ7qX9fkcU&list=PL7bmigfV0EqQt5_pBPQ8tsZjI1w68-e0H
 
 # ¿Qué es Docker?
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PfTKwblbkpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube PfTKwblbkpE>}}
 
 # Kubernetes en 5 minutos
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PH-2FfFD2PU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube PH-2FfFD2PU>}}
 
 # Kubernetes vs. Docker: No es una pregunta de ambos o uno
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2vMEQ5zs1ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 2vMEQ5zs1ko>}}
 
 # Introducción a **Terraform** (Infraestructura como Código)
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/cpxKbf51ccU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 2vMEQ5zs1ko>}}
 
 # Introducción a **HashiCorp Terraform** con Armon Dadgar
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/h970ZBgKINg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{<youtube h970ZBgKINg>}}

@@ -5,57 +5,38 @@ date: 2018-09-13T14:51:37-06:00
 
 ## Welcome to C++
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/18c3MTX0PK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 18c3MTX0PK0>}}
 
 ## The Essence of C++
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/86xWVb4XIyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 86xWVb4XIyE>}}
 
 ## C++ Language in 1 Video
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Rub-JsjMhWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube Rub-JsjMhWY>}}
 
 ## Learning and Teaching Modern C++
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fX2W3nNjJIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube fX2W3nNjJIo>}}
 
 ## Essentials of Modern C++ Style
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xnqTKD8uD64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube xnqTKD8uD64>}}
 
 ## STL Algorithms in Less Than an Hour
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2olsGf6JIkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube 2olsGf6JIkU>}}
 
 ## 10 Core Guidelines
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XkDEzfpdcSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{<youtube XkDEzfpdcSg>}}
 ## Practical C++ 17
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nnY4e4faNp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube nnY4e4faNp0>}}
 
 ## It's Complicated
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tTexD26jIN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube tTexD26jIN4>}}
 
 ## The Cherno Project
 

@@ -11,6 +11,4 @@ bloques operan con sus propios equipos físicos, mientras otros proveen servicio
 
 ### Explicando el rol de un productor de bloques de EOS.
 
-<div class="rwd-media">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YLt5uexD9gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{<youtube YLt5uexD9gg>}}
