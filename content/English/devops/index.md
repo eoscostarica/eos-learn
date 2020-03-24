@@ -11,6 +11,7 @@ Continuous integration allows us to detect problems early reducing costs and hel
 
 Continuous communication and frequent one-on-one calls as well as pair programming are essential part of our day to day work.
 
+
 # Understanding DevOps
 
 {{<youtube EIvOZA1HgHU>}}
@@ -43,6 +44,7 @@ https://www.youtube.com/embed/EnJ7qX9fkcU&list=PL7bmigfV0EqQt5_pBPQ8tsZjI1w68-e0
 # Kubernetes vs. Docker: It's Not an Either/Or Question
 
 {{<youtube 2vMEQ5zs1ko>}}
+
 # Introduction to Terraform ( Infrastructure as Code )
 
 {{<youtube cpxKbf51ccU>}}
