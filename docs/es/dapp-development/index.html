@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
+    <title>Desarrollo de Aplicaciones Descentralizadas - Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
     <meta name="generator" content="Hugo 0.67.1" />
 
     
     <meta name="description" content="Una lista curada de recursos de aprendizaje de EOS.">
     
-    <link rel="canonical" href="https://learn.eoscostarica.io/es/">
+    <link rel="canonical" href="https://learn.eoscostarica.io/es/dapp-development/">
     
     <meta name="author" content="eoscostarica">
     
 
-    <meta property="og:url" content="https://learn.eoscostarica.io/es/">
+    <meta property="og:url" content="https://learn.eoscostarica.io/es/dapp-development/">
     <meta property="og:title" content="Recursos para aprender EOSIO en Español por EOS Costa Rica">
     <meta property="og:image" content="https://learn.eoscostarica.io/es/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="Recursos para aprender EOSIO en Español por EOS Costa Rica">
@@ -69,9 +69,6 @@
     <script src="https://learn.eoscostarica.io/es/javascripts/modernizr.js"></script>
 
     
-    <link href="https://learn.eoscostarica.io/es/index.xml" rel="alternate" type="application/rss+xml" title="Recursos para aprender EOSIO en Español por EOS Costa Rica" />
-    <link href="https://learn.eoscostarica.io/es/index.xml" rel="feed" type="application/rss+xml" title="Recursos para aprender EOSIO en Español por EOS Costa Rica" />
-    
 
   </head>
   <body class="palette-primary-blue-grey palette-accent-blue-grey">
@@ -100,7 +97,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        Recursos para aprender EOSIO en Español por EOS Costa Rica
+        Desarrollo de Aplicaciones Descentralizadas
       </div>
     </div>
     <div class="button" style="vertical-align: middle !important; margin-right: 50px !important;" role="button" aria-label="Twitter">
@@ -286,11 +283,14 @@
 
 
 
-<a  title="Desarrollo de DApps" href="https://learn.eoscostarica.io/es/dapp-development/">
+<a class="current" title="Desarrollo de DApps" href="https://learn.eoscostarica.io/es/dapp-development/">
 	
 	Desarrollo de DApps
 </a>
 
+
+<ul id="scrollspy">
+</ul>
 
 
   
@@ -427,11 +427,64 @@
 
 	</div>
 
-	<article class="article">
+	<article class="article">	
 		<div class="wrapper">
-				<a href="https://github.com/eoscostarica/eos-learning-resources/tree/master/content/" style="float:right;">edit this page</a>
-				<div style="clear:right"></div>
-			
+			<a href="https://github.com/eoscostarica/eos-learning-resources/tree/master/content/dapp-development/index.md" style="float:right;">edit this page</a>
+			<div style="clear:right"></div>
+			<h1>Desarrollo de Aplicaciones Descentralizadas </h1>
+
+
+			<h2 id="construyendo-aplicaciones-descentralizadas">Construyendo Aplicaciones Descentralizadas</h2>
+<!-- raw HTML omitted -->
+<p>Puedes ver más en este canal: <a href="https://www.youtube.com/user/jackodwhacko/videos">https://www.youtube.com/user/jackodwhacko/videos</a></p>
+<!-- raw HTML omitted -->
+<p>Puedes ver más en este canal: <a href="https://www.youtube.com/user/grandmoren1/videos">https://www.youtube.com/user/grandmoren1/videos</a></p>
+<!-- raw HTML omitted -->
+<p>Puedes ver más en este canal: <a href="https://www.youtube.com/user/apexmaxable/videos">https://www.youtube.com/user/apexmaxable/videos</a></p>
+<!-- raw HTML omitted -->
+<h2 id="empezando">Empezando</h2>
+<p><a href="https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts">https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts</a></p>
+<h2 id="framework-de-diseño">Framework de diseño</h2>
+<p>Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjuntot de valores de entrada o lo que denominamos en ingles &ldquo;inputs&rdquo;. Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego. Las acciones comunes pueden ser transacciones de fondos (en el caso del contrato financiero) o movimientos de un juego (en el caso del contrato del juego).</p>
+<p>Un contrato de EOSIO es software registrado en el blockchain y ejecutado en los nodos de EOSIO, los cuales implementan las semánticas de un contrato cuyo conjunto de acciones requeridas están siendo guardadas en el blockchain. El contrato inteligente define la interfaz (accinoes, parámetros, estructuras de datos) y el código que la implementa. El código es compilado en un formato llamado <em>bytecode canónico</em>, mismo que los nodos pueden obtener y ejecutar. El blockchain guarda las transacciones (como por ejemplo: transacciones legales, movimientos de juegos) en el contrato. Cada contrato inteligente debe ser acompañado por un <strong>Contrato Ricardiano</strong> el cual define la legalidad enlazando los términos y condiciones del contrato.</p>
+<p>Escasez Digital <a href="https://github.com/digital-scarcity/equiprental">github repo</a> tiene un ejemplo diseñado para proveer un framework paso a paso y ejemplos para crear un contrato inteligente en EOSIO. El mismo usa un simple caso de uso de alquiler de equipo el cual lista el equipo para rentar y los alquiladores quienes pagan el alquiler por esos ítemes.</p>
+<h3 id="pasos-del-proceso">Pasos del proceso</h3>
+<p>Aquí se logran visualizar los pasos del proceso.
+<img src="https://learn.eoscostarica.io/es/images/contracts/steps.png" alt="alt text" title="Steps"></p>
+<h3 id="modelo-de-datos">Modelo de datos</h3>
+<p>Define los datos que persistirán en el contrato inteligente.
+<img src="https://learn.eoscostarica.io/es/images/contracts/datamodel.png" alt="alt text" title="Data Model"></p>
+<h3 id="acciones">Acciones</h3>
+<p>Define las acciones, el estado de los cambios que deben existir en el contrato inteligente.
+<img src="https://learn.eoscostarica.io/es/images/contracts/actions.png" alt="alt text" title="Actions"></p>
+<h3 id="pre-y-post-condiciones">Pre y Post-Condiciones</h3>
+<p>Define las acciones, el estado de los cambios que deben existir en el contrato inteligente.
+<img src="https://learn.eoscostarica.io/es/images/contracts/prepostconditions.png" alt="alt text" title="Pre- and Post-Conditions"></p>
+<h2 id="contratos-inteligentes-de-código-abierto">Contratos Inteligentes de código abierto</h2>
+<p>EOS Costa Rica mantiene una lista de contratos inteligentes de EOS de código abierto que puedes usar como referencia, los cuales se encuentran en el siguiente repositorio:</p>
+<p><a href="https://github.com/eoscostarica/eos-contracts">https://github.com/eoscostarica/eos-contracts</a></p>
+<h2 id="jungle-testnet">Jungle Testnet</h2>
+<!-- raw HTML omitted -->
+<p>More at <a href="https://jungletestnet.io">https://jungletestnet.io</a></p>
+<h2 id="kylin-testnet">Kylin Testnet</h2>
+<p><a href="https://www.cryptokylin.io/">https://www.cryptokylin.io/</a></p>
+<h2 id="development-environment">Development Environment</h2>
+<p>EOS Local provides a really quick way to setup an EOS local network with IPFS using docker.
+<strong>EOS Local</strong> provee una realmente rápida manera de configuar una red local de EOS con IPFS usando docker.</p>
+<p><a href="https://github.com/eoscostarica/eos-local">https://github.com/eoscostarica/eos-local</a></p>
+<p>EOSIO.CDT (Contract Development Toolkit) es un conjunto de herramientas usada para desarrollar contratos de EOSIO.</p>
+<p><a href="https://github.com/EOSIO/eosio.cdt">https://github.com/EOSIO/eosio.cdt</a></p>
+<p>Contratos de desarrollo de EOSIO basados en python y framework de pruebas.</p>
+<p><a href="https://github.com/tokenika/eosfactory">https://github.com/tokenika/eosfactory</a></p>
+<h2 id="plantilla-de-eosio-de-aplicaciones-descentralizadas">Plantilla de EOSIO de Aplicaciones Descentralizadas</h2>
+<p>Esta plantilla provee una muy rápida manera de empezar con el desarrollo de aplicaciones en la plataforma de EOSIO. Es una opinada selección de tecnologías que te permitirán construir aplicaciones descentralizadas EOSIO escalables y de alto rendimiento.</p>
+<p><a href="https://github.com/eoscostarica/eos-dapp-boilerplate">https://github.com/eoscostarica/eos-dapp-boilerplate</a></p>
+<h2 id="portal-de-desarrolladores-de-eosio">Portal de Desarrolladores de EOSIO</h2>
+<p><a href="https://developers.eos.io/">https://developers.eos.io/</a></p>
+<h2 id="ipfs-almacenamiento-descentralizado---ipfs">IPFS Almacenamiento Descentralizado - IPFS</h2>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
 
 			<aside class="copyright" role="note">
 				
@@ -446,23 +499,37 @@
 			<footer class="footer">
 				
 
-
-
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
+  
+      <a href="https://learn.eoscostarica.io/es/eos-blockchain/" title="El Blockchain de EOS">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              El Blockchain de EOS
+            </div>
+          </div>
+        </div>
+      </a>
+  
   </div>
 
-  
-  
   <div class="next">
-      <a href="https://learn.eoscostarica.io/es/tags/" title="Tags">
+  
+      <a href="https://learn.eoscostarica.io/es/eosio-sister-chains/" title="Cadenas hermanas de EOS">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Tags
+              Cadenas hermanas de EOS
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
@@ -470,8 +537,11 @@
           </div>
         </div>
       </a>
+  
   </div>
 </nav>
+
+
 
 
 
