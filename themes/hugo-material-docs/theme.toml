@@ -16,3 +16,5 @@ min_version = 0.20
   name = "Martin Donath"
   homepage = "http://struct.cc/"
   repo = "https://github.com/squidfunk/mkdocs-material"
+[params]
+  custom_css = ["static/stylesheets/custom.css"]
