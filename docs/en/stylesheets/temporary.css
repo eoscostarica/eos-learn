@@ -21,3 +21,15 @@ blockquote {
 .language-list > li {
   margin: 5px;
 }
+
+.main {
+  width: 100vw !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.backdrop-paper {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100vw !important;
+}
