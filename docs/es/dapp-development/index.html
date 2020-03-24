@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
+    <title>DApp Development - Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
     <meta name="generator" content="Hugo 0.67.1" />
 
     
     <meta name="description" content="Una lista curada de recursos de aprendizaje de EOS.">
     
-    <link rel="canonical" href="https://learn.eoscostarica.io/es/">
+    <link rel="canonical" href="https://learn.eoscostarica.io/es/dapp-development/">
     
     <meta name="author" content="eoscostarica">
     
 
-    <meta property="og:url" content="https://learn.eoscostarica.io/es/">
+    <meta property="og:url" content="https://learn.eoscostarica.io/es/dapp-development/">
     <meta property="og:title" content="Recursos para aprender EOSIO en Español por EOS Costa Rica">
     <meta property="og:image" content="https://learn.eoscostarica.io/es/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="Recursos para aprender EOSIO en Español por EOS Costa Rica">
@@ -69,9 +69,6 @@
     <script src="https://learn.eoscostarica.io/es/javascripts/modernizr.js"></script>
 
     
-    <link href="https://learn.eoscostarica.io/es/index.xml" rel="alternate" type="application/rss+xml" title="Recursos para aprender EOSIO en Español por EOS Costa Rica" />
-    <link href="https://learn.eoscostarica.io/es/index.xml" rel="feed" type="application/rss+xml" title="Recursos para aprender EOSIO en Español por EOS Costa Rica" />
-    
 
   </head>
   <body class="palette-primary-blue-grey palette-accent-blue-grey">
@@ -100,7 +97,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        Recursos para aprender EOSIO en Español por EOS Costa Rica
+        DApp Development
       </div>
     </div>
     <div class="button" style="vertical-align: middle !important; margin-right: 50px !important;" role="button" aria-label="Twitter">
@@ -286,11 +283,14 @@
 
 
 
-<a  title="Desarrollo de DApps" href="https://learn.eoscostarica.io/es/dapp-development/">
+<a class="current" title="Desarrollo de DApps" href="https://learn.eoscostarica.io/es/dapp-development/">
 	
 	Desarrollo de DApps
 </a>
 
+
+<ul id="scrollspy">
+</ul>
 
 
   
@@ -427,11 +427,91 @@
 
 	</div>
 
-	<article class="article">
+	<article class="article">	
 		<div class="wrapper">
-				<a href="https://github.com/eoscostarica/eos-learning-resources/tree/master/content/" style="float:right;">edit this page</a>
-				<div style="clear:right"></div>
-			
+			<a href="https://github.com/eoscostarica/eos-learning-resources/tree/master/content/dapp-development/index.md" style="float:right;">edit this page</a>
+			<div style="clear:right"></div>
+			<h1>DApp Development </h1>
+
+
+			<h2 id="building-decentralized-apps">Building Decentralized Apps</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/DqbkxfUX5Kg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>More on Jackson Kelley&rsquo;s channel <a href="https://www.youtube.com/user/jackodwhacko/videos">https://www.youtube.com/user/jackodwhacko/videos</a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/EbWDHrm2ETY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>More on NSJames&rsquo;s channel <a href="https://www.youtube.com/user/grandmoren1/videos">https://www.youtube.com/user/grandmoren1/videos</a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/J0SYv-GC3R0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>More on Max G&rsquo;s channel <a href="https://www.youtube.com/user/apexmaxable/videos">https://www.youtube.com/user/apexmaxable/videos</a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/4OmQ7Ow9baI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="getting-started">Getting Started</h2>
+<p><a href="https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts">https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts</a></p>
+<h2 id="design-framework">Design Framework</h2>
+<p>A contract is an agreement governing outcomes for actions, given a set of inputs. A contract can range from formal legal contracts (e.g., a financial transaction) to something as simple as the &ldquo;rules&rdquo; of a game. Typical actions can be things such as fund transfers (in the case of a financial contract) or game moves (in the case of a game contract).</p>
+<p>An EOSIO smart contract is software registered on the blockchain and executed on EOSIO nodes, that implements the semantics of a &ldquo;contract&rdquo; whose ledger of action requests are being stored on the blockchain. The Smart Contract defines the interface (actions, parameters, data structures) and the code that implements the interface. The code is compiled into a canonical bytecode format that nodes can retrieve and execute. The blockchain stores the transactions (e.g., legal transfers, game moves) of the contract. Each Smart Contract must be accompanied by a Ricardian Contract that defines the legally binding terms and conditions of the contract.</p>
+<p>Digital Scarcity&rsquo;s <a href="https://github.com/digital-scarcity/equiprental">github repo</a> has an example designed to provide a step-by-step framework and example for creating a smart contract on EOS. It uses a simple use case of equipment rentals that list their equipment for rent and renters who pay rent for those items.</p>
+<h3 id="process-steps">Process Steps</h3>
+<p>Here are the general steps to developing a smart contract.
+<img src="https://learn.eoscostarica.io/es/images/contracts/steps.png" alt="alt text" title="Steps"></p>
+<h3 id="data-model">Data Model</h3>
+<p>Define the data that will be persisted in the smart contract
+<img src="https://learn.eoscostarica.io/es/images/contracts/datamodel.png" alt="alt text" title="Data Model"></p>
+<h3 id="actions">Actions</h3>
+<p>Define the actions, or state changes, that must exist in your smart contract
+<img src="https://learn.eoscostarica.io/es/images/contracts/actions.png" alt="alt text" title="Actions"></p>
+<h3 id="pre-and-post-conditions">Pre and Post-Conditions</h3>
+<p>Define the actions or state changes, that must exist in your smart contract
+<img src="https://learn.eoscostarica.io/es/images/contracts/prepostconditions.png" alt="alt text" title="Pre- and Post-Conditions"></p>
+<h2 id="open-source-smart-contracts">Open Source Smart Contracts</h2>
+<p>EOS Costa Rica maintains a list of open-source EOS smart contracts you can use as reference in the following repo:</p>
+<p><a href="https://github.com/eoscostarica/eos-contracts">https://github.com/eoscostarica/eos-contracts</a></p>
+<h2 id="jungle-testnet">Jungle Testnet</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/s3EM3Hw1S8I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>More at <a href="https://jungletestnet.io">https://jungletestnet.io</a></p>
+<h2 id="kylin-testnet">Kylin Testnet</h2>
+<p><a href="https://www.cryptokylin.io/">https://www.cryptokylin.io/</a></p>
+<h2 id="development-environment">Development Environment</h2>
+<p>EOS Local provides a really quick way to set up an EOS local network with IPFS using docker.</p>
+<p><a href="https://github.com/eoscostarica/eos-local">https://github.com/eoscostarica/eos-local</a></p>
+<p>EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.</p>
+<p><a href="https://github.com/EOSIO/eosio.cdt">https://github.com/EOSIO/eosio.cdt</a></p>
+<p>Python-based EOS smart-contract development &amp; testing framework.</p>
+<p><a href="https://github.com/tokenika/eosfactory">https://github.com/tokenika/eosfactory</a></p>
+<h2 id="eosio-dapp-boilerplate">EOSIO DApp Boilerplate</h2>
+<p>This boilerplate provides a very quick way to get started with application development on the EOSIO platform. It&rsquo;s an opinioned selection of technologies that will allow you to build performant and scalable EOSIO dApps.</p>
+<p><a href="https://github.com/eoscostarica/eos-dapp-boilerplate">https://github.com/eoscostarica/eos-dapp-boilerplate</a></p>
+<h2 id="eosio-developers-portal">EOSIO Developers Portal</h2>
+<p><a href="https://developers.eos.io/">https://developers.eos.io/</a></p>
+<h2 id="decentralized-storage---ipfs">Decentralized Storage - IPFS</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/5Uj6uR3fp-U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/HUVmypx9HGI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
 
 			<aside class="copyright" role="note">
 				
@@ -446,23 +526,37 @@
 			<footer class="footer">
 				
 
-
-
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
+  
+      <a href="https://learn.eoscostarica.io/es/eosio-sister-chains/" title="EOSIO Sister Chains">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              EOSIO Sister Chains
+            </div>
+          </div>
+        </div>
+      </a>
+  
   </div>
 
-  
-  
   <div class="next">
-      <a href="https://learn.eoscostarica.io/es/tags/" title="Tags">
+  
+      <a href="https://learn.eoscostarica.io/es/block-explorers/" title="Block Explorers and Network Monitors for EOSIO Networks.">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Tags
+              Block Explorers and Network Monitors for EOSIO Networks.
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
@@ -470,8 +564,11 @@
           </div>
         </div>
       </a>
+  
   </div>
 </nav>
+
+
 
 
 
