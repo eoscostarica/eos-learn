@@ -9,7 +9,8 @@ Automation is at the top of our priorities, everything from scaffolding to code 
 
 Continuous integration allows us to detect problems early reducing costs and help us deliver robust software more rapidly.
 
-Continuous communication and frequent one-on-one calls, as well as pair programming, are an essential part of our day to day work.
+Continuous communication and frequent one-on-one calls as well as pair programming are essential part of our day to day work.
+
 
 # Understanding DevOps
 
