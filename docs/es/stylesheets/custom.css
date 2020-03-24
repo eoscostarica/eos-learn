@@ -1,4 +1,4 @@
-@media (min-width: 960px) {
+/* @media (min-width: 960px) {
   .main {
     margin-left: 0px !important;
     margin-right: 15px !important;
@@ -30,11 +30,12 @@
     width: 75%;
     margin-left: 25% !important;
   }
-}
-@media (min-width: 1200px) {
+} */
+
+/* @media (min-width: 1200px) {
   .main {
-    margin-left: 0px !important;
-    margin-right: 5px !important;
+    width: 100vw !important;
+    margin: 0px !important;
   }
 
   .backdrop-paper:after {
@@ -46,9 +47,9 @@
     width: 80%;
     margin-left: 23% !important;
   }
-}
+} */
 
-@media (min-width: 1400px) {
+/* @media (min-width: 1400px) 
   .main {
     margin-left: 0px !important;
     width: 100% !important;
@@ -68,4 +69,4 @@
   .wrapper {
     width: 78vw !important;
   }
-}
+} */
