@@ -1,9 +1,9 @@
 ---
-title: "Contratos Inteligenes de EOS"
-date: 2018-09-13T14:51:37-06:00
----
+title: Contratos Inteligenes de EOS
+date: 2018-09-13T20:51:37.000+00:00
 
-Un contrato es un acuerdo que rige los resultados de las acciones una vez dado un conjunto de datos de entrada o lo que se le denomina "inputs". Un contrato pueden desde los tipo legal (ejemplo transacciones financieras) hasta algo más simple como las reglas de un juego. Las acciones típicas pueden ser transacciones de fondos (en el caso de un contrato financiero) o movimientos de juegos (en el caso de un contrato de juego).
+---
+Un contrato es un acuerdo que rige los resultados de las acciones una vez dado un conjunto de datos de entrada o lo que se le denomina "inputs". Un contrato pueden ir desde los tipo legal (ejemplo transacciones financieras) hasta algo más simple como las reglas de un juego. Las acciones típicas pueden ser transacciones de fondos (en el caso de un contrato financiero) o movimientos de juegos (en el caso de un contrato de juego).
 
 Un Contrato Inteligente de EOSIO es software registrado en el blockchain y ejecutado en los nodos de EOSIO, eso implementa las semánticas de un contracto cuyo registro de solicitudes de acciones están siendo guardadas en el blockchain. El Contrato Inteligente define la interfaz (acciones, parámetros, estructuras de datos) y el código que implementa la interfaz. El código es compilado en el formato **bytecode canónico** el cual puede ser obtenido y ejecutado por los nodos. El blockchain guarda las transacciones (tranferencias legales, moviemientos de juego) del contrato. Cada Contrato Inteligente debe ser acompañado de un Contrato Ricardiano que define la legalidad de los términos y condiciones enlazadas del contrato.
 
@@ -17,7 +17,6 @@ Escazes Digital [github repo](https://github.com/digital-scarcity/equiprental) t
 
 Aquí se pueden ver los pasos generales para desarrollar un Contrato Inteligente.
 ![alt text](/images/contracts/steps.png "Steps")
-
 
 ### Modelo de datos
 
@@ -34,8 +33,7 @@ Define las acciones o el estado de cambio que deben existir en el Contrato Intel
 Define las acciones o el estado de cambios que deben existir en tu Contrato Inteligente.
 ![alt text](/images/contracts/prepostconditions.png "Pre- and Post-Conditions")
 
-
-## Contratos Inteligentes de Código Abierto 
+## Contratos Inteligentes de Código Abierto
 
 Nosotros manteneos una lista de Contratos Inteligentes de EOS de código de abierto en el siguiente repositorio:
 
