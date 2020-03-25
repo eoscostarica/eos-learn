@@ -32,5 +32,5 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server -D -E -F --port 5050
+  instant_preview_command: hugo server
 version: 0.63.2
