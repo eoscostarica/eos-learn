@@ -12,7 +12,7 @@ Comunicación continua y frecuentes llamadas de uno en uno así como programaci�
 
 {{<youtube EIvOZA1HgHU>}}
 
-Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:
+Para lograr estos objetivos, aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:
 
 # Introducción a la infraestructura como Código (en inglés IAC)
 
