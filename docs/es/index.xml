@@ -31,7 +31,7 @@ WORBLI   TELOS   EOS FORCE   WAX   </description>
   Puedes ver más en este canal: https://www.youtube.com/user/grandmoren1/videos
   Puedes ver más en este canal: https://www.youtube.com/user/apexmaxable/videos
   Empezando https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
-Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjuntot de valores de entrada o lo que denominamos en ingles &amp;ldquo;inputs&amp;rdquo;. Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego.</description>
+Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjunto de valores de entrada o lo que denominamos en ingles &amp;ldquo;inputs&amp;rdquo;. Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego.</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ Framework de diseño Un contrato es un acuerdo en el que se rigen ciertas accion
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/eosio-software/</guid>
-      <description>EOSIO es un protocolo de software de código abierto libre que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
+      <description>EOSIO es un protocolo de software de código abierto que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
 El software de EOSIO introduce una nueva arquitectura de blockchain diseñada para permitir escalabilidad horizontal y vertical de aplicaciones descentralizadas. Esto es logrado creando una construcción similar a un sistema operativo en el cual las aplicaciones pueden ser construidas. El software provee cuentas, autenticación, bases de datos, comunicación asíncrona y la programación de aplicaciones en muchos núcleos CPU o clústeres.</description>
     </item>
     
@@ -100,10 +100,10 @@ Jason Turner https://www.</description>
     <item>
       <title>Contratos Inteligenes de EOS</title>
       <link>https://learn.eoscostarica.io/es/smart-contracts/</link>
-      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      <pubDate>Thu, 13 Sep 2018 20:51:37 +0000</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/smart-contracts/</guid>
-      <description>Un contrato es un acuerdo que rige los resultados de las acciones una vez dado un conjunto de datos de entrada o lo que se le denomina &amp;ldquo;inputs&amp;rdquo;. Un contrato pueden desde los tipo legal (ejemplo transacciones financieras) hasta algo más simple como las reglas de un juego. Las acciones típicas pueden ser transacciones de fondos (en el caso de un contrato financiero) o movimientos de juegos (en el caso de un contrato de juego).</description>
+      <description>Un contrato es un acuerdo que rige los resultados de las acciones una vez dado un conjunto de datos de entrada o lo que se le denomina &amp;ldquo;inputs&amp;rdquo;. Un contrato pueden ir desde los tipo legal (ejemplo transacciones financieras) hasta algo más simple como las reglas de un juego. Las acciones típicas pueden ser transacciones de fondos (en el caso de un contrato financiero) o movimientos de juegos (en el caso de un contrato de juego).</description>
     </item>
     
     <item>
@@ -115,7 +115,7 @@ Jason Turner https://www.</description>
       <description>En EOS Costa Rica nosotros seguimos los principios de DevOps para construir y desplegar software.
 La automatización está en el top de nuestras prioridades, todo desde organización de directorios hasta optimización de código, pruebas, despliegue y entrega.
 Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día .
-Entendiendo DevOps   Para lograr estos objetivos, nosotros aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
+Entendiendo DevOps   Para lograr estos objetivos, aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
     </item>
     
     <item>
