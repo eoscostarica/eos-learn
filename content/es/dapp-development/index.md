@@ -26,7 +26,7 @@ https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
 
 ## Framework de diseño
 
-Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjuntot de valores de entrada o lo que denominamos en ingles "inputs". Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego. Las acciones comunes pueden ser transacciones de fondos (en el caso del contrato financiero) o movimientos de un juego (en el caso del contrato del juego).
+Un contrato es un acuerdo en el que se rigen ciertas acciones definidas, dando para ellas un conjunto de valores de entrada o lo que denominamos en ingles "inputs". Un contrato puede ir desde el tipo financiero hasta algo más simple como las reglas de un juego. Las acciones comunes pueden ser transacciones de fondos (en el caso del contrato financiero) o movimientos de un juego (en el caso del contrato del juego).
 
 Un contrato de EOSIO es software registrado en el blockchain y ejecutado en los nodos de EOSIO, los cuales implementan las semánticas de un contrato cuyo conjunto de acciones requeridas están siendo guardadas en el blockchain. El contrato inteligente define la interfaz (accinoes, parámetros, estructuras de datos) y el código que la implementa. El código es compilado en un formato llamado *bytecode canónico*, mismo que los nodos pueden obtener y ejecutar. El blockchain guarda las transacciones (como por ejemplo: transacciones legales, movimientos de juegos) en el contrato. Cada contrato inteligente debe ser acompañado por un **Contrato Ricardiano** el cual define la legalidad enlazando los términos y condiciones del contrato.
 
