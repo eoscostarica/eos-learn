@@ -1,12 +1,13 @@
 ---
-title: "DevOps"
-date: 2018-09-13T14:51:37-06:00
---- 
+title: DevOps
+date: 2018-09-13T20:51:37.000+00:00
+
+---
 En EOS Costa Rica nosotros seguimos los principios de DevOps para construir y desplegar software.
 
 La automatización está en el top de nuestras prioridades, todo desde organización de directorios hasta optimización de código, pruebas, despliegue y entrega.
 
-Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día .
+Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día.
 
 # Entendiendo DevOps
 
