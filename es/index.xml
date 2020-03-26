@@ -6,7 +6,7 @@
     <description>Recent content on Recursos para aprender EOSIO en Español por EOS Costa Rica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cr</language>
-    <lastBuildDate>Thu, 13 Sep 2018 14:51:37 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 13 Sep 2018 20:51:37 +0000</lastBuildDate>
     
 	<atom:link href="https://learn.eoscostarica.io/es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -109,12 +109,12 @@ Jason Turner https://www.</description>
     <item>
       <title>DevOps</title>
       <link>https://learn.eoscostarica.io/es/devops/</link>
-      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      <pubDate>Thu, 13 Sep 2018 20:51:37 +0000</pubDate>
       
       <guid>https://learn.eoscostarica.io/es/devops/</guid>
       <description>En EOS Costa Rica nosotros seguimos los principios de DevOps para construir y desplegar software.
 La automatización está en el top de nuestras prioridades, todo desde organización de directorios hasta optimización de código, pruebas, despliegue y entrega.
-Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día .
+Comunicación continua y frecuentes llamadas de uno en uno así como programación en parejas son partes esenciales de nuestro trabajo día a día.
 Entendiendo DevOps   Para lograr estos objetivos, aprovechamos un conjunto de tecnologías que son explicadas en los siguientes videos:</description>
     </item>
     
