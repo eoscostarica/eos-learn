@@ -4,7 +4,7 @@ title: "El Blockchain de EOS"
 weight: 20
 ---
 
-EOSIO es un protocolo de software de código abierto libre que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
+EOSIO es un protocolo de software de código abierto que provee a los desarrolladores y emprendedores una plataforma en la cual desarrollar, desplegar y correr aplicaciones descentralizadas de alto rendimiento.
 
 El software de EOSIO introduce una nueva arquitectura de blockchain diseñada para permitir escalabilidad horizontal y vertical de aplicaciones descentralizadas. Esto es logrado creando una construcción similar a un sistema operativo en el cual las aplicaciones pueden ser construidas. El software provee cuentas, autenticación, bases de datos, comunicación asíncrona y la programación de aplicaciones en muchos núcleos CPU o clústeres. La tecnología resultante es una arquitectura blockchain que finalmente puede escalar a millones de transacciones por segundo, elimina las tarifas que el usuario debe pagar, permite un fácil y rápido despliegue y mantenimiento de aplicaciones descentralizadas, en el contexto de una blockchain con governanza.
 
@@ -12,8 +12,8 @@ El software de EOSIO introduce una nueva arquitectura de blockchain diseñada pa
 
 - Tasa libre de transacciones limitadas.
 - Baja latencia en la confirmación del bloque (0.5 segundos).
-- Finalidad tolerante a fallas bizantinas de bajo costo.
-- Diseñado para finalidades BFT opcionales de alta sobrecarga y baja latencia.
+- TFB (finalidad tolerante a fallas bizantinas) de bajo costo.
+- Diseñado para finalidades TFB opcionales de alta sobrecarga y baja latencia.
 - Plataforma de Contratos Inteligentes impulsada por **Web Assembly**
 - Diseñado para validación del cliente de forma liviana
 - Transacciones recurrentes programadas.
