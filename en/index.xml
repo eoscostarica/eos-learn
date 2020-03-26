@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EOSIO Learning Resources by EOS Costa Rica</title>
+    <link>https://learn.eoscostarica.io/en/</link>
+    <description>Recent content on EOSIO Learning Resources by EOS Costa Rica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Sep 2018 14:51:37 -0600</lastBuildDate>
+    
+	<atom:link href="https://learn.eoscostarica.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Block Explorers and Network Monitors for EOSIO Networks.</title>
+      <link>https://learn.eoscostarica.io/en/block-explorers/</link>
+      <pubDate>Wed, 09 Mar 2016 19:08:11 +0000</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/block-explorers/</guid>
+      <description>A block explorer is a program or website accessible through a compatible browser that allows a user to search and navigate the blocks of a blockchain, their contents, and their relevant details.
+Bloks.io https://bloks.io/
+EOSX https://www.eosx.io/
+EOSQ https://eosq.app/
+EOS Flare https://eosflare.io/
+EOS Hub https://eoshub.io/
+EOS Network Monitor https://eosnetworkmonitor.io/
+EOS Tracker https://eostracker.io/
+EOS Spark https://eospark.com/
+Vote Tracker https://votetracker.io/
+EOSDAC Explorer https://explorer.eosdac.io
+EOS Web https://eosweb.net/
+Cypherblock https://www.cypherblock.io/
+EOS Tree https://eostree.io/
+EOS Radar https://www.</description>
+    </item>
+    
+    <item>
+      <title>DApp Development</title>
+      <link>https://learn.eoscostarica.io/en/dapp-development/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/dapp-development/</guid>
+      <description>Building Decentralized Apps   More on Jackson Kelley&#39;s channel https://www.youtube.com/user/jackodwhacko/videos
+  More on NSJames&#39;s channel https://www.youtube.com/user/grandmoren1/videos
+  More on Max G&#39;s channel https://www.youtube.com/user/apexmaxable/videos
+  Getting Started https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts
+Design Framework A contract is an agreement governing outcomes for actions, given a set of inputs. A contract can range from formal legal contracts (e.g., a financial transaction) to something as simple as the &amp;ldquo;rules&amp;rdquo; of a game. Typical actions can be things such as fund transfers (in the case of a financial contract) or game moves (in the case of a game contract).</description>
+    </item>
+    
+    <item>
+      <title>EOSIO Sister Chains</title>
+      <link>https://learn.eoscostarica.io/en/eosio-sister-chains/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/eosio-sister-chains/</guid>
+      <description>Sister chains are blockchains that utilize the EOSIO software but that have their native token used for resource allocation.
+WORBLI   TELOS   EOS FORCE   WAX   </description>
+    </item>
+    
+    <item>
+      <title>The EOS Blockchain</title>
+      <link>https://learn.eoscostarica.io/en/eos-blockchain/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/eos-blockchain/</guid>
+      <description>Introduction to EOS     Why EOS is Built for dApps   Internal Economics   EOS Explained by Dan Larimer   EOS Resource Allocation   EOS vs ETH     EOS Storage EOS.IO Storage White Paper
+  </description>
+    </item>
+    
+    <item>
+      <title>The EOS Blockchain</title>
+      <link>https://learn.eoscostarica.io/en/eosio-software/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/eosio-software/</guid>
+      <description>EOSIO is a free, open-source blockchain software protocol that provides developers and entrepreneurs with a platform on which to build, deploy and run high-performing decentralized applications.
+The EOSIO software introduces a new blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. This is achieved by creating an operating system-like construct upon which applications can be built. The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across many CPU cores or clusters.</description>
+    </item>
+    
+    <item>
+      <title>Block Producer</title>
+      <link>https://learn.eoscostarica.io/en/block-producer/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/block-producer/</guid>
+      <description>What is a Block Producer? Block producers provide the infrastructure required to run the underlying network layer to process all transactions. Some block producers run their own &amp;ldquo;Bare Metal Servers&amp;rdquo; meaning they own and operate their physical equipment. Other Block producers provide the service by using third party cloud services.
+Explaining the Role of an EOS Block Producer   </description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://learn.eoscostarica.io/en/devops/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/devops/</guid>
+      <description>At EOS Costa Rica we follow the DevOps principles to build and deploy software.
+Automation is at the top of our priorities, everything from scaffolding to code optimization, testing, deploy and delivery.
+Continuous integration allows us to detect problems early reducing costs and help us deliver robust software more rapidly.
+Continuous communication and frequent one-on-one calls as well as pair programming are essential part of our day to day work.</description>
+    </item>
+    
+    <item>
+      <title>EOS Podcasts and Video Channels</title>
+      <link>https://learn.eoscostarica.io/en/eos-podcasts/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/eos-podcasts/</guid>
+      <description>EOSIO https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg
+Everything EOS https://www.youtube.com/channel/UCJGfaRx0EzL0u_Wj_nz_CiQ
+The EOS Podcast https://www.youtube.com/channel/UCMbWeAfeeyGO5NlYO-7_I5w
+Dallas Rushing https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg
+Exploring EOS https://exploringeos.com/
+The Awakenment https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag
+Investing with a Difference https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w
+EOS Radio https://www.youtube.com/channel/UCSkVL53-3TAmWAocZDdGiIw
+EOS Voter https://open.spotify.com/show/7aa00qzbKFjX1PTugmn4vn
+Cypherglass https://www.youtube.com/channel/UCnXofUeO5w1dO9JGWWDdqPQ
+SVK Crypto https://www.youtube.com/channel/UCuyr4l0-6Gkw7kW80lUwHLQ
+EOS Canada https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ
+EOS Dublin https://eosdublin.podbean.com/
+EOS Detroit https://www.youtube.com/channel/UCnbdh6f2U54_18YEe89xpnA
+EOS Weekly https://www.youtube.com/channel/UCR9iyxumPn7n14nbBocfCMQ
+EOS Dapp Stars https://www.youtube.com/channel/UCgXggdgpan84WJmR5gLSwhw
+Thomas Cox https://www.youtube.com/channel/UC1YXNL469qIagGyTzZM-uRw</description>
+    </item>
+    
+    <item>
+      <title>EOS Smart Contracts</title>
+      <link>https://learn.eoscostarica.io/en/smart-contracts/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/smart-contracts/</guid>
+      <description>A contract is an agreement governing outcomes for actions, given a set of inputs. A contract can range from formal legal contracts (e.g., a financial transaction) to something as simple as the &amp;ldquo;rules&amp;rdquo; of a game. Typical actions can be things such as fund transfers (in the case of a financial contract) or game moves (in the case of a game contract).
+An EOSIO Smart Contract is software registered on the blockchain and executed on EOSIO nodes, that implements the semantics of a &amp;ldquo;contract&amp;rdquo; whose ledger of action requests are being stored on the blockchain.</description>
+    </item>
+    
+    <item>
+      <title>Modern C&#43;&#43;</title>
+      <link>https://learn.eoscostarica.io/en/modern-cpp/</link>
+      <pubDate>Thu, 13 Sep 2018 14:51:37 -0600</pubDate>
+      
+      <guid>https://learn.eoscostarica.io/en/modern-cpp/</guid>
+      <description>Welcome to C++   The Essence of C++   C++ Language in 1 Video   Learning and Teaching Modern C++   Essentials of Modern C++ Style   STL Algorithms in Less Than an Hour   10 Core Guidelines   Practical C++ 17   It&#39;s Complicated   The Cherno Project https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
+Better Code by Sean Parent https://www.youtube.com/watch?v=QGcVXgEVMJg&amp;amp;list=PLiWEEi8ezRkXoi4nJcPzyPlbXhnSA2VvB
+CPPCon Videos https://www.youtube.com/user/CppCon/videos
+Jason Turner https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

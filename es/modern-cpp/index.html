@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+  
+  
+  
+  
+   <html class="no-js"> 
+
+  <head lang="es-cr">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <title>C&#43;&#43; Moderno - Recursos para aprender EOSIO en Español por EOS Costa Rica</title>
+    <meta name="generator" content="Hugo 0.62.2" />
+
+    
+    <meta name="description" content="Una lista curada de recursos de aprendizaje de EOS.">
+    
+    <link rel="canonical" href="https://learn.eoscostarica.io/es/modern-cpp/">
+    
+    <meta name="author" content="eoscostarica">
+    
+
+    <meta property="og:url" content="https://learn.eoscostarica.io/es/modern-cpp/">
+    <meta property="og:title" content="Recursos para aprender EOSIO en Español por EOS Costa Rica">
+    <meta property="og:image" content="https://learn.eoscostarica.io/es/images/logo.png">
+    <meta name="apple-mobile-web-app-title" content="Recursos para aprender EOSIO en Español por EOS Costa Rica">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://learn.eoscostarica.io/es/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://learn.eoscostarica.io/es/images/favicon.ico">
+
+    <style>
+      @font-face {
+        font-family: 'Icon';
+        src: url('https://learn.eoscostarica.io/es/fonts/icon.eot');
+        src: url('https://learn.eoscostarica.io/es/fonts/icon.eot')
+               format('embedded-opentype'),
+             url('https://learn.eoscostarica.io/es/fonts/icon.woff')
+               format('woff'),
+             url('https://learn.eoscostarica.io/es/fonts/icon.ttf')
+               format('truetype'),
+             url('https://learn.eoscostarica.io/es/fonts/icon.svg')
+               format('svg');
+        font-weight: normal;
+        font-style: normal;
+      }
+    </style>
+
+    <link rel="stylesheet" href="https://learn.eoscostarica.io/es/stylesheets/application.css">
+    <link rel="stylesheet" href="https://learn.eoscostarica.io/es/stylesheets/temporary.css">
+    <link rel="stylesheet" href="https://learn.eoscostarica.io/es/stylesheets/palettes.css">
+    <link rel="stylesheet" href="https://learn.eoscostarica.io/es/stylesheets/highlight/highlight.css">
+
+    
+    
+    
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&#43;Mono">
+    <style>
+      body, input {
+        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: 'Ubuntu Mono', 'Courier New', 'Courier', monospace;
+      }
+    </style>
+
+    
+    <script src="https://learn.eoscostarica.io/es/javascripts/modernizr.js"></script>
+
+    
+
+  </head>
+  <body class="palette-primary-blue-grey palette-accent-blue-grey">
+
+
+
+	
+	
+
+
+<div class="backdrop">
+	<div class="backdrop-paper"></div>
+</div>
+
+<input class="toggle" type="checkbox" id="toggle-drawer">
+<input class="toggle" type="checkbox" id="toggle-search">
+<label class="toggle-button overlay" for="toggle-drawer"></label>
+
+<header class="header">
+	
+<nav aria-label="Header">
+  <div class="bar default">
+    <div class="button button-menu" role="button" aria-label="Menu">
+      <label class="toggle-button icon icon-menu" for="toggle-drawer">
+        <span></span>
+      </label>
+    </div>
+    <div class="stretch">
+      <div class="title">
+        C&#43;&#43; Moderno
+      </div>
+    </div>
+    <div class="button" style="vertical-align: middle !important; margin-right: 50px !important;" role="button" aria-label="Twitter">
+      <ul class="language-list">
+        
+        <li>
+          <a href="https://learn.eoscostarica.io/es/"><strong>Español</strong></a>
+        </li>
+        
+        <li>
+          <a href="https://learn.eoscostarica.io/en/"><strong>English</strong></a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="button button-twitter" role="button" aria-label="Twitter">
+      <a
+        href="https://twitter.com/eoscostarica"
+        title="@eoscostarica on Twitter"
+        target="_blank"
+        class="toggle-button icon icon-twitter"
+      ></a>
+    </div>
+     
+    <div class="button button-github" role="button" aria-label="GitHub">
+      <a
+        href="https://github.com/eoscostarica"
+        title="@eoscostarica on GitHub"
+        target="_blank"
+        class="toggle-button icon icon-github"
+      ></a>
+    </div>
+    
+  </div>
+  <div class="bar search">
+    <div class="button button-close" role="button" aria-label="Close">
+      <label class="toggle-button icon icon-back" for="toggle-search"></label>
+    </div>
+    <div class="stretch">
+      <div class="field">
+        <input
+          class="query"
+          type="text"
+          placeholder="Search"
+          autocapitalize="off"
+          autocorrect="off"
+          autocomplete="off"
+          spellcheck
+        />
+      </div>
+    </div>
+    <div class="button button-reset" role="button" aria-label="Search">
+      <button class="toggle-button icon icon-close" id="reset-search"></button>
+    </div>
+  </div>
+</nav>
+
+</header>
+
+<main class="main">
+	<div class="drawer">
+		<nav aria-label="Navigation">
+  <a href="https://github.com/eoscostarica/eos-learning-resources" class="project">
+    <div class="banner">
+      
+        <div class="logo">
+          <img src="https://learn.eoscostarica.io/es/images/logo.png">
+        </div>
+      
+      <div class="name">
+        <strong>Recursos para aprender EOSIO en Español por EOS Costa Rica <span class="version">1.0.0</span></strong>
+        
+          <br>
+          eoscostarica/eos-learning-resources
+        
+      </div>
+    </div>
+  </a>
+
+  <div class="scrollable">
+    <div class="wrapper">
+      
+        <ul class="repo">
+          <li class="repo-download">
+            <a href="https://github.com/eoscostarica/eos-learning-resources/archive/master.zip" target="_blank" title="Download" data-action="download">
+              <i class="icon icon-download"></i> Download
+            </a>
+          </li>
+          <li class="repo-stars">
+            <a href="https://github.com/eoscostarica/eos-learning-resources/stargazers" target="_blank" title="Stargazers" data-action="star">
+              <i class="icon icon-star"></i> Stars
+              <span class="count">&ndash;</span>
+            </a>
+          </li>
+        </ul>
+        <hr>
+      
+
+      <div class="toc">
+        
+        <ul>
+          
+
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Software EOSIO" href="https://learn.eoscostarica.io/es/eosio-software/">
+	
+	Software EOSIO
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Blockchain de EOS" href="https://learn.eoscostarica.io/es/eos-blockchain/">
+	
+	Blockchain de EOS
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Productores de Bloques" href="https://learn.eoscostarica.io/es/block-producer/">
+	
+	Productores de Bloques
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Exploradores de Bloques" href="https://learn.eoscostarica.io/es/block-explorers/">
+	
+	Exploradores de Bloques
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Desarrollo de DApps" href="https://learn.eoscostarica.io/es/dapp-development/">
+	
+	Desarrollo de DApps
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Cadenas hermanas de EOSIO" href="https://learn.eoscostarica.io/es/eosio-sister-chains/">
+	
+	Cadenas hermanas de EOSIO
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="DevOps" href="https://learn.eoscostarica.io/es/devops/">
+	
+	DevOps
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Podcasts de EOS" href="https://learn.eoscostarica.io/es/eos-podcasts/">
+	
+	Podcasts de EOS
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a class="current" title="C&#43;&#43; moderno" href="https://learn.eoscostarica.io/es/modern-cpp/">
+	
+	C&#43;&#43; moderno
+</a>
+
+
+<ul id="scrollspy">
+</ul>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Conceptos básicos de Blockchain" href="https://learn.eoscostarica.io/es/">
+	
+	Conceptos básicos de Blockchain
+</a>
+
+
+
+  
+</li>
+
+
+        </ul>
+        
+
+        
+        <hr>
+        <span class="section">EOS Costa Rica</span>
+        
+        <ul>
+          
+          <li>
+            <a href="https://twitter.com/eoscostarica" target="_blank" title="@eoscostarica on Twitter">
+              @eoscostarica on Twitter
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://github.com/eoscostarica" target="_blank" title="@eoscostarica on GitHub">
+              @eoscostarica on GitHub
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="mailto:bp@eosio.cr" title="Email of bp@eosio.cr">
+              Contactar via email
+            </a>
+          </li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+
+	</div>
+
+	<article class="article">	
+		<div class="wrapper">
+			<a href="https://github.com/eoscostarica/eos-learning-resources/tree/master/content/modern-cpp/index.md" style="float:right;">edit this page</a>
+			<div style="clear:right"></div>
+			<h1>C&#43;&#43; Moderno </h1>
+
+
+			<h2 id="bienvenido-a-c">Bienvenido a C++</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/18c3MTX0PK0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="la-esencia-de-c">La esencia de C++</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/86xWVb4XIyE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="c-en-un-video">C++ en un video</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Rub-JsjMhWY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="aprendiendo-y-enseñando-c">Aprendiendo y enseñando C++</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/fX2W3nNjJIo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="elementos-esenciales-del-estilo-de-c-moderno">Elementos esenciales del estilo de C++ moderno</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/xnqTKD8uD64" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="algoritmos-stl-en-menos-de-una-hora">Algoritmos STL en menos de una hora</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/2olsGf6JIkU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="diez-pautas-fundamentales">Diez pautas fundamentales</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/XkDEzfpdcSg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="c-17-práctico">C++ 17 práctico</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/nnY4e4faNp0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="es-complicado">Es complicado</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/tTexD26jIN4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="the-cherno-project">&ldquo;The Cherno Project&rdquo;</h2>
+<p><a href="https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw">https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw</a></p>
+<h2 id="mejor-código-por-sean-parent">Mejor código por Sean Parent</h2>
+<p><a href="https://www.youtube.com/watch?v=QGcVXgEVMJg&amp;list=PLiWEEi8ezRkXoi4nJcPzyPlbXhnSA2VvB">https://www.youtube.com/watch?v=QGcVXgEVMJg&amp;list=PLiWEEi8ezRkXoi4nJcPzyPlbXhnSA2VvB</a></p>
+<h2 id="videos-cppcon">Videos CPPCon</h2>
+<p><a href="https://www.youtube.com/user/CppCon/videos">https://www.youtube.com/user/CppCon/videos</a></p>
+<h2 id="jason-turner">Jason Turner</h2>
+<p><a href="https://www.youtube.com/user/lefticus1">https://www.youtube.com/user/lefticus1</a></p>
+<h2 id="videos-boostcon">Videos BoostCon</h2>
+<p><a href="https://www.youtube.com/user/BoostCon">https://www.youtube.com/user/BoostCon</a></p>
+<h2 id="las-pautas-fundamentales-de-c">Las pautas fundamentales de C++</h2>
+<p><a href="https://github.com/eoscostarica/CppCoreGuidelines">https://github.com/eoscostarica/CppCoreGuidelines</a></p>
+<h2 id="increíble-c-moderno">Increíble C++ moderno</h2>
+<p><a href="https://github.com/eoscostarica/awesome-modern-cpp">https://github.com/eoscostarica/awesome-modern-cpp</a></p>
+<h2 id="características-modernas-de-c">Características modernas de C++</h2>
+<p><a href="https://github.com/eoscostarica/modern-cpp-features">https://github.com/eoscostarica/modern-cpp-features</a></p>
+<h2 id="consejos-de-c">Consejos de C++</h2>
+<p><a href="https://abseil.io/tips/">https://abseil.io/tips/</a></p>
+<h2 id="c-de-google">C++ de Google</h2>
+<p><a href="https://developers.google.com/edu/c++/">https://developers.google.com/edu/c++/</a></p>
+
+
+			<aside class="copyright" role="note">
+				
+				&copy; 2020 Publicado bajo la licencia MIT &ndash;
+				
+				Documentation built with
+				<a href="https://www.gohugo.io" target="_blank">Hugo</a>
+				using the
+				<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a> theme.
+			</aside>
+
+			<footer class="footer">
+				
+
+<nav class="pagination" aria-label="Footer">
+  <div class="previous">
+  
+      <a href="https://learn.eoscostarica.io/es/smart-contracts/" title="Contratos Inteligenes de EOS">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              Contratos Inteligenes de EOS
+            </div>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+
+  <div class="next">
+  
+      <a href="https://learn.eoscostarica.io/es/block-producer/" title="Productor de Bloques">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              Productor de Bloques
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+</nav>
+
+
+
+
+
+			</footer>
+		</div>
+	</article>
+
+	<div class="results" role="status" aria-live="polite">
+		<div class="scrollable">
+			<div class="wrapper">
+				<div class="meta"></div>
+				<div class="list"></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+    <script>
+    
+      var base_url = 'https:\/\/learn.eoscostarica.io\/es\/';
+      var repo_id  = 'eoscostarica\/eos-learning-resources';
+    
+    </script>
+
+    <script src="https://learn.eoscostarica.io/es/javascripts/application.js"></script>
+    
+
+    <script>
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName("h2");
+      var scrollspy = document.getElementById('scrollspy');
+
+      if(scrollspy) {
+        if(headers.length > 0) {
+          for(var i = 0; i < headers.length; i++) {
+            var li = document.createElement("li");
+            li.setAttribute("class", "anchor");
+
+            var a  = document.createElement("a");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+        for(var i = 0; i < headers.length; i++) {
+            var a = document.createElement("a");
+            a.setAttribute("class", "headerlink");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", "Permanent link")
+            a.innerHTML = "#";
+            headers[i].appendChild(a);
+        }
+      }
+    </script>
+
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+
