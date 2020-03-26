@@ -43,6 +43,20 @@
         "blog",
         "talk"
       ]
+    },
+    {
+      "login": "JustinCast",
+      "name": "Justin Castillo Valladares",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17890146?v=4",
+      "profile": "https://github.com/JustinCast",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "review",
+        "translation"
+      ]
     }
-  ]
+  ],
+  "commitConvention": "none"
 }

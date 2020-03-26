@@ -93,9 +93,19 @@ EOS Costa Rica is an independently-owned, self-funded, bare-metal genesis block 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/391270?v=4" width="100px;"/><br /><sub><b>Gabo Esquivel</b></sub>](https://gaboesquivel.com)<br />[💻](https://github.com/eoscostarica/eos-learn/commits?author=gaboesquivel "Code") [👀](#review-gaboesquivel "Reviewed Pull Requests") [📝](#blog-gaboesquivel "Blogposts") [📢](#talk-gaboesquivel "Talks") | [<img src="https://avatars0.githubusercontent.com/u/5632966?v=4" width="100px;"/><br /><sub><b>Xavier Fernandez</b></sub>](https://eoscostarica.io)<br />[💻](https://github.com/eoscostarica/eos-learn/commits?author=xavier506 "Code") [👀](#review-xavier506 "Reviewed Pull Requests") [📝](#blog-xavier506 "Blogposts") [📢](#talk-xavier506 "Talks") | [<img src="https://avatars2.githubusercontent.com/u/40245170?v=4" width="100px;"/><br /><sub><b>Edgar Fernandez</b></sub>](http://www.eoscostarica.io)<br />[👀](#review-edgar-eoscostarica "Reviewed Pull Requests") [📝](#blog-edgar-eoscostarica "Blogposts") [📢](#talk-edgar-eoscostarica "Talks") |
-| :---: | :---: | :---: |
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://gaboesquivel.com"><img src="https://avatars0.githubusercontent.com/u/391270?v=4" width="100px;" alt=""/><br /><sub><b>Gabo Esquivel</b></sub></a><br /><a href="https://github.com/eoscostarica/eos-learn/commits?author=gaboesquivel" title="Code">💻</a> <a href="https://github.com/eoscostarica/eos-learn/pulls?q=is%3Apr+reviewed-by%3Agaboesquivel" title="Reviewed Pull Requests">👀</a> <a href="#blog-gaboesquivel" title="Blogposts">📝</a> <a href="#talk-gaboesquivel" title="Talks">📢</a></td>
+    <td align="center"><a href="https://eoscostarica.io"><img src="https://avatars0.githubusercontent.com/u/5632966?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Fernandez</b></sub></a><br /><a href="https://github.com/eoscostarica/eos-learn/commits?author=xavier506" title="Code">💻</a> <a href="https://github.com/eoscostarica/eos-learn/pulls?q=is%3Apr+reviewed-by%3Axavier506" title="Reviewed Pull Requests">👀</a> <a href="#blog-xavier506" title="Blogposts">📝</a> <a href="#talk-xavier506" title="Talks">📢</a></td>
+    <td align="center"><a href="http://www.eoscostarica.io"><img src="https://avatars2.githubusercontent.com/u/40245170?v=4" width="100px;" alt=""/><br /><sub><b>Edgar Fernandez</b></sub></a><br /><a href="https://github.com/eoscostarica/eos-learn/pulls?q=is%3Apr+reviewed-by%3Aedgar-eoscostarica" title="Reviewed Pull Requests">👀</a> <a href="#blog-edgar-eoscostarica" title="Blogposts">📝</a> <a href="#talk-edgar-eoscostarica" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/JustinCast"><img src="https://avatars1.githubusercontent.com/u/17890146?v=4" width="100px;" alt=""/><br /><sub><b>Justin Castillo Valladares</b></sub></a><br /><a href="https://github.com/eoscostarica/eos-learn/commits?author=JustinCast" title="Code">💻</a> <a href="#content-JustinCast" title="Content">🖋</a> <a href="#design-JustinCast" title="Design">🎨</a> <a href="https://github.com/eoscostarica/eos-learn/pulls?q=is%3Apr+reviewed-by%3AJustinCast" title="Reviewed Pull Requests">👀</a> <a href="#translation-JustinCast" title="Translation">🌍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
