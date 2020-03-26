@@ -77,38 +77,42 @@ googleAnalytics = ""
 	name   = "EOSIO Software"
 	url    = "eosio-software/"
 	weight = 1
+[[languages.es.menu.main]]
+	name   = "Contratos Inteligentes"
+	url    = "smart-contracts/"
+	weight = 2
 [[languages.en.menu.main]]
 	name   = "EOS Blockchain"
 	url    = "eos-blockchain/"
-	weight = 2
+	weight = 3
 [[languages.en.menu.main]]
 	name   = "Block Producers"
 	url    = "block-producer/"
-	weight = 3
+	weight = 4
 [[languages.en.menu.main]]
 	name   = "Block Explorers"
 	url    = "block-explorers/"
-	weight = 4
+	weight = 5
 [[languages.en.menu.main]]
 	name   = "DApp Development"
 	url    = "dapp-development/"
-	weight = 5
+	weight = 6
 [[languages.en.menu.main]]
 	name   = "EOSIO Sister Chains"
 	url    = "eosio-sister-chains/"
-	weight = 6
+	weight = 7
 [[languages.en.menu.main]]
 	name   = "DevOps"
 	url    = "devops/"
-	weight = 7
+	weight = 8
 [[languages.en.menu.main]]
 	name   = "EOS Podcasts"
 	url    = "eos-podcasts/"
-	weight = 8
+	weight = 9
 [[languages.en.menu.main]]
 	name   = "Modern C++"
 	url    = "modern-cpp/"
-	weight = 9
+	weight = 10
 
 #SPANISH MENU
 [[languages.es.menu.main]]
@@ -120,37 +124,41 @@ googleAnalytics = ""
 	url    = "eosio-software/"
 	weight = 1
 [[languages.es.menu.main]]
+	name   = "Contratos Inteligentes"
+	url    = "smart-contracts/"
+	weight = 2
+[[languages.es.menu.main]]
 	name   = "Blockchain de EOS"
 	url    = "eos-blockchain/"
-	weight = 2
+	weight = 3
 [[languages.es.menu.main]]
 	name   = "Productores de Bloques"
 	url    = "block-producer/"
-	weight = 3
+	weight = 4
 [[languages.es.menu.main]]
 	name   = "Exploradores de Bloques"
 	url    = "block-explorers/"
-	weight = 4
+	weight = 5
 [[languages.es.menu.main]]
 	name   = "Desarrollo de DApps"
 	url    = "dapp-development/"
-	weight = 5
+	weight = 6
 [[languages.es.menu.main]]
 	name   = "Cadenas hermanas de EOSIO"
 	url    = "eosio-sister-chains/"
-	weight = 6
+	weight = 7
 [[languages.es.menu.main]]
 	name   = "DevOps"
 	url    = "devops/"
-	weight = 7
+	weight = 8
 [[languages.es.menu.main]]
 	name   = "Podcasts de EOS"
 	url    = "eos-podcasts/"
-	weight = 8
+	weight = 9
 [[languages.es.menu.main]]
 	name   = "C++ moderno"
 	url    = "modern-cpp/"
-	weight = 9
+	weight = 10
 
 [blackfriday]
 	smartypants	= true
